@@ -18,18 +18,21 @@ Currently I am working at the FH Dortmund as labratory managment and sysadmin fo
   
 
  <details>
-  <summary>:zap: Github Activity</summary> 
-  <!--START_SECTION:activity-->
+  <summary>:zap: Github activity</summary> 
+   
+<!--START_SECTION:activity-->
 1. 💪 Opened PR [#30](https://github.com/jponttuset/mcg/pull/30) in [jponttuset/mcg](https://github.com/jponttuset/mcg)
 2. 🗣 Commented on [#10648](https://github.com/snipe/snipe-it/issues/10648) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
 3. 🗣 Commented on [#44](https://github.com/omkbd/ErgoDash/issues/44) in [omkbd/ErgoDash](https://github.com/omkbd/ErgoDash)
 4. 🗣 Commented on [#3406](https://github.com/James-Yu/LaTeX-Workshop/issues/3406) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 5. ❗️ Opened issue [#3406](https://github.com/James-Yu/LaTeX-Workshop/issues/3406) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
+   
 </details>
 
 <details>
   <summary>:zap: Github stats</summary>
+  
   <img src="https://github-readme-stats.makanu.vercel.app/api?username=MaKaNu&show_icons=true&include_all_commits=true&count_private=true&border_radius=20&hide_title=true&bg_color=30,008C00,000000&text_color=D7D7D7&icon_color=00FF00&border_color=00FF00" alt="MaKaNu's github stats"/>
 </details>
 
