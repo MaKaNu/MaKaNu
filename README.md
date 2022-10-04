@@ -11,7 +11,7 @@ For everyone asking: My nickname come from the initial of my name and my favorit
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MaKaNu&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Tramac's github stats"/>
+<img align="right" src="https://github-readme-stats.makanu.vercel.app/api?username=MaKaNu&show_icons=true&include_all_commits=true&count_private=true&border_radius=20&hide_title=true&bg_color=30,008C00,000000&text_color=D7D7D7&icon_color=00FF00&border_color=00FF00" alt="MaKaNu's github stats"/>
   
 I am a former automotive student and information & electornics engineer.
 Currently I am working at the FH Dortmund as labratory managment and sysadmin for a small DL-System.
