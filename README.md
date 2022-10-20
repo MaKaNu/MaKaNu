@@ -40,10 +40,10 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6827](https://github.com/python-poetry/poetry/issues/6827) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 💪 Opened PR [#31](https://github.com/jponttuset/mcg/pull/31) in [jponttuset/mcg](https://github.com/jponttuset/mcg)
-3. 🗣 Commented on [#28](https://github.com/jponttuset/mcg/issues/28) in [jponttuset/mcg](https://github.com/jponttuset/mcg)
-4. 🗣 Commented on [#1290](https://github.com/sddm/sddm/issues/1290) in [sddm/sddm](https://github.com/sddm/sddm)
+1. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. ❗️ Opened issue [#6827](https://github.com/python-poetry/poetry/issues/6827) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 💪 Opened PR [#31](https://github.com/jponttuset/mcg/pull/31) in [jponttuset/mcg](https://github.com/jponttuset/mcg)
+4. 🗣 Commented on [#28](https://github.com/jponttuset/mcg/issues/28) in [jponttuset/mcg](https://github.com/jponttuset/mcg)
 5. 🗣 Commented on [#1290](https://github.com/sddm/sddm/issues/1290) in [sddm/sddm](https://github.com/sddm/sddm)
 <!--END_SECTION:activity-->
    
