@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6965](https://github.com/python-poetry/poetry/issues/6965) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#1289](https://github.com/Lightning-AI/metrics/issues/1289) in [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics)
+1. 🗣 Commented on [#6965](https://github.com/python-poetry/poetry/issues/6965) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. ❗️ Opened issue [#6965](https://github.com/python-poetry/poetry/issues/6965) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 3. 🗣 Commented on [#1289](https://github.com/Lightning-AI/metrics/issues/1289) in [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics)
-4. ❗️ Opened issue [#1289](https://github.com/Lightning-AI/metrics/issues/1289) in [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics)
-5. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+4. 🗣 Commented on [#1289](https://github.com/Lightning-AI/metrics/issues/1289) in [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics)
+5. ❗️ Opened issue [#1289](https://github.com/Lightning-AI/metrics/issues/1289) in [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics)
 <!--END_SECTION:activity-->
    
 </details>
