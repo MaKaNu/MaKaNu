@@ -41,10 +41,10 @@
    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 🗣 Commented on [#6965](https://github.com/python-poetry/poetry/issues/6965) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 3. 🗣 Commented on [#6965](https://github.com/python-poetry/poetry/issues/6965) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. ❗️ Opened issue [#6965](https://github.com/python-poetry/poetry/issues/6965) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. 🗣 Commented on [#1289](https://github.com/Lightning-AI/metrics/issues/1289) in [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics)
+4. 🗣 Commented on [#6965](https://github.com/python-poetry/poetry/issues/6965) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. ❗️ Opened issue [#6965](https://github.com/python-poetry/poetry/issues/6965) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
    
 </details>
