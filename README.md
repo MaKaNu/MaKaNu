@@ -40,10 +40,10 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#293](https://github.com/lincolnloop/python-qrcode/issues/293) in [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
-2. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-3. 🗣 Commented on [#36](https://github.com/elazarcoh/simply-view-image-for-python-debugging/issues/36) in [elazarcoh/simply-view-image-for-python-debugging](https://github.com/elazarcoh/simply-view-image-for-python-debugging)
-4. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. 🗣 Commented on [#293](https://github.com/lincolnloop/python-qrcode/issues/293) in [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
+2. ❗️ Opened issue [#293](https://github.com/lincolnloop/python-qrcode/issues/293) in [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
+3. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. 🗣 Commented on [#36](https://github.com/elazarcoh/simply-view-image-for-python-debugging/issues/36) in [elazarcoh/simply-view-image-for-python-debugging](https://github.com/elazarcoh/simply-view-image-for-python-debugging)
 5. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
    
