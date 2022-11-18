@@ -41,10 +41,10 @@
    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
-2. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
-3. ❗️ Opened issue [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
-4. 🗣 Commented on [#293](https://github.com/lincolnloop/python-qrcode/issues/293) in [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
-5. ❗️ Opened issue [#293](https://github.com/lincolnloop/python-qrcode/issues/293) in [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
+2. ❗️ Closed issue [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
+3. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
+4. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
+5. ❗️ Opened issue [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
 <!--END_SECTION:activity-->
    
 </details>
