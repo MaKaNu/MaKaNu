@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
-2. ❗️ Closed issue [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
-3. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
+1. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
+3. ❗️ Closed issue [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
 4. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
-5. ❗️ Opened issue [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
+5. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
 <!--END_SECTION:activity-->
    
 </details>
