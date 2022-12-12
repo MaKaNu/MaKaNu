@@ -41,10 +41,10 @@
    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 🎉 Merged PR [#1](https://github.com/MaKaNu/qmk_firmware/pull/1) in [MaKaNu/qmk_firmware](https://github.com/MaKaNu/qmk_firmware)
-3. 💪 Opened PR [#1](https://github.com/MaKaNu/qmk_firmware/pull/1) in [MaKaNu/qmk_firmware](https://github.com/MaKaNu/qmk_firmware)
-4. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-5. 🗣 Commented on [#606](https://github.com/PyFPDF/fpdf2/issues/606) in [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2)
+2. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+3. 🎉 Merged PR [#1](https://github.com/MaKaNu/qmk_firmware/pull/1) in [MaKaNu/qmk_firmware](https://github.com/MaKaNu/qmk_firmware)
+4. 💪 Opened PR [#1](https://github.com/MaKaNu/qmk_firmware/pull/1) in [MaKaNu/qmk_firmware](https://github.com/MaKaNu/qmk_firmware)
+5. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
    
 </details>
