@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/papermerge/helm-chart/issues/2) in [papermerge/helm-chart](https://github.com/papermerge/helm-chart)
-2. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. ❗️ Opened issue [#6643](https://github.com/alacritty/alacritty/issues/6643) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+2. ❗️ Opened issue [#2](https://github.com/papermerge/helm-chart/issues/2) in [papermerge/helm-chart](https://github.com/papermerge/helm-chart)
 3. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-4. 🎉 Merged PR [#1](https://github.com/MaKaNu/qmk_firmware/pull/1) in [MaKaNu/qmk_firmware](https://github.com/MaKaNu/qmk_firmware)
-5. 💪 Opened PR [#1](https://github.com/MaKaNu/qmk_firmware/pull/1) in [MaKaNu/qmk_firmware](https://github.com/MaKaNu/qmk_firmware)
+4. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+5. 🎉 Merged PR [#1](https://github.com/MaKaNu/qmk_firmware/pull/1) in [MaKaNu/qmk_firmware](https://github.com/MaKaNu/qmk_firmware)
 <!--END_SECTION:activity-->
    
 </details>
