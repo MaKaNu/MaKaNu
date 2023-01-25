@@ -40,10 +40,10 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6643](https://github.com/alacritty/alacritty/issues/6643) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-2. ❗️ Opened issue [#6643](https://github.com/alacritty/alacritty/issues/6643) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-3. ❗️ Opened issue [#2](https://github.com/papermerge/helm-chart/issues/2) in [papermerge/helm-chart](https://github.com/papermerge/helm-chart)
-4. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. ❗️ Opened issue [#1](https://github.com/leftwm/leftwm-config/issues/1) in [leftwm/leftwm-config](https://github.com/leftwm/leftwm-config)
+2. 🗣 Commented on [#6643](https://github.com/alacritty/alacritty/issues/6643) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+3. ❗️ Opened issue [#6643](https://github.com/alacritty/alacritty/issues/6643) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+4. ❗️ Opened issue [#2](https://github.com/papermerge/helm-chart/issues/2) in [papermerge/helm-chart](https://github.com/papermerge/helm-chart)
 5. 🗣 Commented on [#88524](https://github.com/pytorch/pytorch/issues/88524) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
    
