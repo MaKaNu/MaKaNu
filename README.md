@@ -40,10 +40,10 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#880](https://github.com/leftwm/leftwm/issues/880) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-2. 🗣 Commented on [#2](https://github.com/MaKaNu/boxsup-pytorch/issues/2) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
-3. ❗️ Opened issue [#2](https://github.com/DylanGiesberts/obsidian-table-checkboxes/issues/2) in [DylanGiesberts/obsidian-table-checkboxes](https://github.com/DylanGiesberts/obsidian-table-checkboxes)
-4. 🗣 Commented on [#6643](https://github.com/alacritty/alacritty/issues/6643) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+1. ❗️ Opened issue [#5](https://github.com/Martinomagnifico/reveal.js-simplemenu/issues/5) in [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu)
+2. 🗣 Commented on [#880](https://github.com/leftwm/leftwm/issues/880) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+3. 🗣 Commented on [#2](https://github.com/MaKaNu/boxsup-pytorch/issues/2) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
+4. ❗️ Opened issue [#2](https://github.com/DylanGiesberts/obsidian-table-checkboxes/issues/2) in [DylanGiesberts/obsidian-table-checkboxes](https://github.com/DylanGiesberts/obsidian-table-checkboxes)
 5. 🗣 Commented on [#6643](https://github.com/alacritty/alacritty/issues/6643) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
 <!--END_SECTION:activity-->
    
