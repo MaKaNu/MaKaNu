@@ -40,10 +40,10 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/MaKaNu/boxsup-pytorch/issues/3) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
-2. 🗣 Commented on [#2558](https://github.com/rustdesk/rustdesk/issues/2558) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-3. ❗️ Closed issue [#5](https://github.com/Martinomagnifico/reveal.js-simplemenu/issues/5) in [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu)
-4. 🗣 Commented on [#5](https://github.com/Martinomagnifico/reveal.js-simplemenu/issues/5) in [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu)
+1. ❗️ Opened issue [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+2. 🗣 Commented on [#3](https://github.com/MaKaNu/boxsup-pytorch/issues/3) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
+3. 🗣 Commented on [#2558](https://github.com/rustdesk/rustdesk/issues/2558) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+4. ❗️ Closed issue [#5](https://github.com/Martinomagnifico/reveal.js-simplemenu/issues/5) in [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu)
 5. 🗣 Commented on [#5](https://github.com/Martinomagnifico/reveal.js-simplemenu/issues/5) in [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu)
 <!--END_SECTION:activity-->
    
