@@ -41,10 +41,10 @@
    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-2. ❗ Opened issue [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-3. 🗣 Commented on [#3](https://github.com/MaKaNu/boxsup-pytorch/issues/3) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
-4. 🗣 Commented on [#2558](https://github.com/rustdesk/rustdesk/issues/2558) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-5. 🗣 Commented on [#5](https://github.com/Martinomagnifico/reveal.js-simplemenu/issues/5) in [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu)
+2. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+3. ❗ Opened issue [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+4. 🗣 Commented on [#3](https://github.com/MaKaNu/boxsup-pytorch/issues/3) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
+5. 🗣 Commented on [#2558](https://github.com/rustdesk/rustdesk/issues/2558) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 <!--END_SECTION:activity-->
    
 </details>
