@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/joshikstr/driverThorlabsLTS/pull/2) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
-2. 💪 Opened PR [#1](https://github.com/joshikstr/driverThorlabsLTS/pull/1) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
-3. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+1. ❗ Opened issue [#3](https://github.com/joshikstr/driverThorlabsLTS/issues/3) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
+2. 💪 Opened PR [#2](https://github.com/joshikstr/driverThorlabsLTS/pull/2) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
+3. 💪 Opened PR [#1](https://github.com/joshikstr/driverThorlabsLTS/pull/1) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
 4. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-5. ❗ Opened issue [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+5. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
 <!--END_SECTION:activity-->
    
 </details>
