@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/joshikstr/driverThorlabsLTS/issues/3) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
-2. ❗ Opened issue [#4](https://github.com/joshikstr/driverThorlabsLTS/issues/4) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
-3. ❗ Opened issue [#3](https://github.com/joshikstr/driverThorlabsLTS/issues/3) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
-4. 💪 Opened PR [#2](https://github.com/joshikstr/driverThorlabsLTS/pull/2) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
-5. 💪 Opened PR [#1](https://github.com/joshikstr/driverThorlabsLTS/pull/1) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
+1. ❗ Opened issue [#392](https://github.com/FreeCAD/FreeCAD-library/issues/392) in [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library)
+2. 🗣 Commented on [#3](https://github.com/joshikstr/driverThorlabsLTS/issues/3) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
+3. ❗ Opened issue [#4](https://github.com/joshikstr/driverThorlabsLTS/issues/4) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
+4. ❗ Opened issue [#3](https://github.com/joshikstr/driverThorlabsLTS/issues/3) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
+5. 💪 Opened PR [#2](https://github.com/joshikstr/driverThorlabsLTS/pull/2) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
 <!--END_SECTION:activity-->
    
 </details>
