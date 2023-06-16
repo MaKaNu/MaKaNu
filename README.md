@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/martinblech/xmltodict/issues/225) in [martinblech/xmltodict](https://github.com/martinblech/xmltodict)
-2. 🗣 Commented on [#392](https://github.com/FreeCAD/FreeCAD-library/issues/392) in [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library)
-3. ❗ Opened issue [#392](https://github.com/FreeCAD/FreeCAD-library/issues/392) in [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library)
-4. 🗣 Commented on [#3](https://github.com/joshikstr/driverThorlabsLTS/issues/3) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
-5. ❗ Opened issue [#4](https://github.com/joshikstr/driverThorlabsLTS/issues/4) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
+1. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+2. 🗣 Commented on [#225](https://github.com/martinblech/xmltodict/issues/225) in [martinblech/xmltodict](https://github.com/martinblech/xmltodict)
+3. 🗣 Commented on [#392](https://github.com/FreeCAD/FreeCAD-library/issues/392) in [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library)
+4. ❗ Opened issue [#392](https://github.com/FreeCAD/FreeCAD-library/issues/392) in [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library)
+5. 🗣 Commented on [#3](https://github.com/joshikstr/driverThorlabsLTS/issues/3) in [joshikstr/driverThorlabsLTS](https://github.com/joshikstr/driverThorlabsLTS)
 <!--END_SECTION:activity-->
    
 </details>
