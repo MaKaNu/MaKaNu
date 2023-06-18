@@ -41,10 +41,10 @@
    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/issues/1093) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-2. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-3. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-4. 🗣 Commented on [#225](https://github.com/martinblech/xmltodict/issues/225) in [martinblech/xmltodict](https://github.com/martinblech/xmltodict)
-5. 🗣 Commented on [#392](https://github.com/FreeCAD/FreeCAD-library/issues/392) in [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library)
+2. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/issues/1093) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+3. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/issues/1093) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+4. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+5. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
 <!--END_SECTION:activity-->
    
 </details>
