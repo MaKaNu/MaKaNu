@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/issues/1093) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-2. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/issues/1093) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-3. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/issues/1093) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-4. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/issues/1093) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
-5. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+1. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/pull/1093#issuecomment-1596810300) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+2. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/pull/1093#issuecomment-1596262643) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+3. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/pull/1093#issuecomment-1596261154) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+4. 🗣 Commented on [#1093](https://github.com/leftwm/leftwm/pull/1093#issuecomment-1596166336) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
+5. 🗣 Commented on [#1065](https://github.com/leftwm/leftwm/issues/1065#issuecomment-1596123909) in [leftwm/leftwm](https://github.com/leftwm/leftwm)
 <!--END_SECTION:activity-->
    
 </details>
