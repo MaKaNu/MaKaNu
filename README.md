@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3265](https://github.com/python/peps/issues/3265) in [python/peps](https://github.com/python/peps)
-2. 🗣 Commented on [#28](https://github.com/TheZoq2/dcs_on_linux/issues/28#issuecomment-1659181154) in [TheZoq2/dcs_on_linux](https://github.com/TheZoq2/dcs_on_linux)
-3. 🗣 Commented on [#117](https://github.com/yuzutech/kroki.io/issues/117#issuecomment-1655841531) in [yuzutech/kroki.io](https://github.com/yuzutech/kroki.io)
-4. ❗ Opened issue [#117](https://github.com/yuzutech/kroki.io/issues/117) in [yuzutech/kroki.io](https://github.com/yuzutech/kroki.io)
-5. 🗣 Commented on [#3](https://github.com/DylanGiesberts/obsidian-table-checkboxes/issues/3#issuecomment-1643384061) in [DylanGiesberts/obsidian-table-checkboxes](https://github.com/DylanGiesberts/obsidian-table-checkboxes)
+1. 🗣 Commented on [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28#issuecomment-1669133065) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+2. 💪 Opened PR [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+3. ❗ Opened issue [#3265](https://github.com/python/peps/issues/3265) in [python/peps](https://github.com/python/peps)
+4. 🗣 Commented on [#28](https://github.com/TheZoq2/dcs_on_linux/issues/28#issuecomment-1659181154) in [TheZoq2/dcs_on_linux](https://github.com/TheZoq2/dcs_on_linux)
+5. 🗣 Commented on [#117](https://github.com/yuzutech/kroki.io/issues/117#issuecomment-1655841531) in [yuzutech/kroki.io](https://github.com/yuzutech/kroki.io)
 <!--END_SECTION:activity-->
    
 </details>
