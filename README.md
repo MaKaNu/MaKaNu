@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28#issuecomment-1669133065) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
-2. 💪 Opened PR [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
-3. ❗ Opened issue [#3265](https://github.com/python/peps/issues/3265) in [python/peps](https://github.com/python/peps)
-4. 🗣 Commented on [#28](https://github.com/TheZoq2/dcs_on_linux/issues/28#issuecomment-1659181154) in [TheZoq2/dcs_on_linux](https://github.com/TheZoq2/dcs_on_linux)
-5. 🗣 Commented on [#117](https://github.com/yuzutech/kroki.io/issues/117#issuecomment-1655841531) in [yuzutech/kroki.io](https://github.com/yuzutech/kroki.io)
+1. 🚀 Published release [Release Candidate: 0.1.0-rc1](https://github.com/MaKaNu/chaos2csv/releases/tag/0.1.0-rc1) in [MaKaNu/chaos2csv](https://github.com/MaKaNu/chaos2csv)
+2. 🚀 Published release [Release Candidate: v0.1.0](https://github.com/MaKaNu/chaos2csv/releases/tag/0.1.0-rc0) in [MaKaNu/chaos2csv](https://github.com/MaKaNu/chaos2csv)
+3. 🗣 Commented on [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28#issuecomment-1669133065) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+4. 💪 Opened PR [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+5. ❗ Opened issue [#3265](https://github.com/python/peps/issues/3265) in [python/peps](https://github.com/python/peps)
 <!--END_SECTION:activity-->
    
 </details>
