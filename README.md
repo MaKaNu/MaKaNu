@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#30](https://github.com/Mgancita/cookiecutter-pypackage/issues/30) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
-2. ❌ Closed PR [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
-3. 🗣 Commented on [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28#issuecomment-1672795231) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
-4. 💪 Opened PR [#29](https://github.com/Mgancita/cookiecutter-pypackage/pull/29) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
-5. 🚀 Published release [Release Candidate 0.1.0-rc2](https://github.com/MaKaNu/chaos2csv/releases/tag/0.1.0-rc2) in [MaKaNu/chaos2csv](https://github.com/MaKaNu/chaos2csv)
+1. 💪 Opened PR [#1](https://github.com/MaKaNu/cookiecutter-pypackage/pull/1) in [MaKaNu/cookiecutter-pypackage](https://github.com/MaKaNu/cookiecutter-pypackage)
+2. ❗ Opened issue [#30](https://github.com/Mgancita/cookiecutter-pypackage/issues/30) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+3. ❌ Closed PR [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+4. 🗣 Commented on [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28#issuecomment-1672795231) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+5. 💪 Opened PR [#29](https://github.com/Mgancita/cookiecutter-pypackage/pull/29) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
 <!--END_SECTION:activity-->
    
 </details>
