@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
-2. 💪 Opened PR [#1](https://github.com/MaKaNu/cookiecutter-pypackage/pull/1) in [MaKaNu/cookiecutter-pypackage](https://github.com/MaKaNu/cookiecutter-pypackage)
-3. ❗ Opened issue [#30](https://github.com/Mgancita/cookiecutter-pypackage/issues/30) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
-4. ❌ Closed PR [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
-5. 🗣 Commented on [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28#issuecomment-1672795231) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+1. 🗣 Commented on [#2](https://github.com/grahamc/nixos-cuda-example/pull/2#issuecomment-1677165149) in [grahamc/nixos-cuda-example](https://github.com/grahamc/nixos-cuda-example)
+2. ❗ Opened issue [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
+3. 💪 Opened PR [#1](https://github.com/MaKaNu/cookiecutter-pypackage/pull/1) in [MaKaNu/cookiecutter-pypackage](https://github.com/MaKaNu/cookiecutter-pypackage)
+4. ❗ Opened issue [#30](https://github.com/Mgancita/cookiecutter-pypackage/issues/30) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
+5. ❌ Closed PR [#28](https://github.com/Mgancita/cookiecutter-pypackage/pull/28) in [Mgancita/cookiecutter-pypackage](https://github.com/Mgancita/cookiecutter-pypackage)
 <!--END_SECTION:activity-->
    
 </details>
