@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2#issuecomment-1684322818) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
-2. 🗣 Commented on [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2#issuecomment-1679504478) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
-3. 🗣 Commented on [#2](https://github.com/grahamc/nixos-cuda-example/pull/2#issuecomment-1677165149) in [grahamc/nixos-cuda-example](https://github.com/grahamc/nixos-cuda-example)
-4. ❗ Opened issue [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
-5. 💪 Opened PR [#1](https://github.com/MaKaNu/cookiecutter-pypackage/pull/1) in [MaKaNu/cookiecutter-pypackage](https://github.com/MaKaNu/cookiecutter-pypackage)
+1. ❗ Opened issue [#30](https://github.com/colinwilson/lotusdocs/issues/30) in [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs)
+2. 🗣 Commented on [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2#issuecomment-1684322818) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
+3. 🗣 Commented on [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2#issuecomment-1679504478) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
+4. 🗣 Commented on [#2](https://github.com/grahamc/nixos-cuda-example/pull/2#issuecomment-1677165149) in [grahamc/nixos-cuda-example](https://github.com/grahamc/nixos-cuda-example)
+5. ❗ Opened issue [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
 <!--END_SECTION:activity-->
    
 </details>
