@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2661](https://github.com/hyprwm/Hyprland/issues/2661#issuecomment-1694493350) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. 🗣 Commented on [#30](https://github.com/colinwilson/lotusdocs/issues/30#issuecomment-1693611878) in [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs)
-3. 🗣 Commented on [#30](https://github.com/colinwilson/lotusdocs/issues/30#issuecomment-1693561821) in [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs)
-4. 🗣 Commented on [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2#issuecomment-1692282880) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
-5. ❗ Opened issue [#30](https://github.com/colinwilson/lotusdocs/issues/30) in [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs)
+1. 🗣 Commented on [#62](https://github.com/thias/glim/issues/62#issuecomment-1720929668) in [thias/glim](https://github.com/thias/glim)
+2. 🗣 Commented on [#2661](https://github.com/hyprwm/Hyprland/issues/2661#issuecomment-1694493350) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+3. 🗣 Commented on [#30](https://github.com/colinwilson/lotusdocs/issues/30#issuecomment-1693611878) in [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs)
+4. 🗣 Commented on [#30](https://github.com/colinwilson/lotusdocs/issues/30#issuecomment-1693561821) in [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs)
+5. 🗣 Commented on [#2](https://github.com/VolatileMark/opentrack-wine-guide/issues/2#issuecomment-1692282880) in [VolatileMark/opentrack-wine-guide](https://github.com/VolatileMark/opentrack-wine-guide)
 <!--END_SECTION:activity-->
    
 </details>
