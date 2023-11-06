@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/ParisNeo/lollms-webui/issues/312#issuecomment-1729993867) in [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui)
-2. 🗣 Commented on [#62](https://github.com/thias/glim/issues/62#issuecomment-1720929668) in [thias/glim](https://github.com/thias/glim)
-3. 🗣 Commented on [#2661](https://github.com/hyprwm/Hyprland/issues/2661#issuecomment-1694493350) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-4. 🗣 Commented on [#30](https://github.com/colinwilson/lotusdocs/issues/30#issuecomment-1693611878) in [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs)
-5. 🗣 Commented on [#30](https://github.com/colinwilson/lotusdocs/issues/30#issuecomment-1693561821) in [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs)
+1. 🗣 Commented on [#1](https://github.com/RoccoRakete/hyprland-dots/issues/1#issuecomment-1796279578) in [RoccoRakete/hyprland-dots](https://github.com/RoccoRakete/hyprland-dots)
+2. ❗ Opened issue [#1](https://github.com/RoccoRakete/hyprland-dots/issues/1) in [RoccoRakete/hyprland-dots](https://github.com/RoccoRakete/hyprland-dots)
+3. 🗣 Commented on [#312](https://github.com/ParisNeo/lollms-webui/issues/312#issuecomment-1729993867) in [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui)
+4. 🗣 Commented on [#62](https://github.com/thias/glim/issues/62#issuecomment-1720929668) in [thias/glim](https://github.com/thias/glim)
+5. 🗣 Commented on [#2661](https://github.com/hyprwm/Hyprland/issues/2661#issuecomment-1694493350) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
    
 </details>
