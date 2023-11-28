@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/FirefighterBlu3/python-pam/issues/42) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
-2. 💪 Opened PR [#1](https://github.com/MaKaNu/hyprland-matti/pull/1) in [MaKaNu/hyprland-matti](https://github.com/MaKaNu/hyprland-matti)
-3. 🗣 Commented on [#1](https://github.com/RoccoRakete/hyprland-dots/issues/1#issuecomment-1804463269) in [RoccoRakete/hyprland-dots](https://github.com/RoccoRakete/hyprland-dots)
-4. 🗣 Commented on [#1](https://github.com/RoccoRakete/hyprland-dots/issues/1#issuecomment-1799723310) in [RoccoRakete/hyprland-dots](https://github.com/RoccoRakete/hyprland-dots)
-5. 🗣 Commented on [#1](https://github.com/RoccoRakete/hyprland-dots/issues/1#issuecomment-1796279578) in [RoccoRakete/hyprland-dots](https://github.com/RoccoRakete/hyprland-dots)
+1. 🗣 Commented on [#20](https://github.com/FirefighterBlu3/python-pam/issues/20#issuecomment-1829310932) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
+2. ❗ Opened issue [#42](https://github.com/FirefighterBlu3/python-pam/issues/42) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
+3. 💪 Opened PR [#1](https://github.com/MaKaNu/hyprland-matti/pull/1) in [MaKaNu/hyprland-matti](https://github.com/MaKaNu/hyprland-matti)
+4. 🗣 Commented on [#1](https://github.com/RoccoRakete/hyprland-dots/issues/1#issuecomment-1804463269) in [RoccoRakete/hyprland-dots](https://github.com/RoccoRakete/hyprland-dots)
+5. 🗣 Commented on [#1](https://github.com/RoccoRakete/hyprland-dots/issues/1#issuecomment-1799723310) in [RoccoRakete/hyprland-dots](https://github.com/RoccoRakete/hyprland-dots)
 <!--END_SECTION:activity-->
    
 </details>
