@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1565](https://github.com/hyprwm/Hyprland/issues/1565#issuecomment-1830917556) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. 🗣 Commented on [#43](https://github.com/FirefighterBlu3/python-pam/pull/43#issuecomment-1829784632) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
-3. 💪 Opened PR [#43](https://github.com/FirefighterBlu3/python-pam/pull/43) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
-4. 🗣 Commented on [#20](https://github.com/FirefighterBlu3/python-pam/issues/20#issuecomment-1829310932) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
-5. ❗ Opened issue [#42](https://github.com/FirefighterBlu3/python-pam/issues/42) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
+1. ❗ Opened issue [#230](https://github.com/builtbybel/ThisIsWin11/issues/230) in [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)
+2. 🗣 Commented on [#1565](https://github.com/hyprwm/Hyprland/issues/1565#issuecomment-1830917556) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+3. 🗣 Commented on [#43](https://github.com/FirefighterBlu3/python-pam/pull/43#issuecomment-1829784632) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
+4. 💪 Opened PR [#43](https://github.com/FirefighterBlu3/python-pam/pull/43) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
+5. 🗣 Commented on [#20](https://github.com/FirefighterBlu3/python-pam/issues/20#issuecomment-1829310932) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
 <!--END_SECTION:activity-->
    
 </details>
