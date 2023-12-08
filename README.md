@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4075](https://github.com/hyprwm/Hyprland/issues/4075#issuecomment-1843601629) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. ❗ Opened issue [#4075](https://github.com/hyprwm/Hyprland/issues/4075) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-3. ❗ Opened issue [#230](https://github.com/builtbybel/ThisIsWin11/issues/230) in [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)
-4. 🗣 Commented on [#1565](https://github.com/hyprwm/Hyprland/issues/1565#issuecomment-1830917556) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-5. 🗣 Commented on [#43](https://github.com/FirefighterBlu3/python-pam/pull/43#issuecomment-1829784632) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
+1. 🗣 Commented on [#1232](https://github.com/gitkraken/vscode-gitlens/issues/1232#issuecomment-1847477789) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
+2. 🗣 Commented on [#4075](https://github.com/hyprwm/Hyprland/issues/4075#issuecomment-1843601629) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+3. ❗ Opened issue [#4075](https://github.com/hyprwm/Hyprland/issues/4075) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+4. ❗ Opened issue [#230](https://github.com/builtbybel/ThisIsWin11/issues/230) in [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)
+5. 🗣 Commented on [#1565](https://github.com/hyprwm/Hyprland/issues/1565#issuecomment-1830917556) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
    
 </details>
