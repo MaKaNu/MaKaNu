@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MaKaNu/fourierdrawing/pull/1) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
-2. ❗ Opened issue [#922](https://github.com/pytest-dev/pyfakefs/issues/922) in [pytest-dev/pyfakefs](https://github.com/pytest-dev/pyfakefs)
-3. 🗣 Commented on [#1232](https://github.com/gitkraken/vscode-gitlens/issues/1232#issuecomment-1847477789) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
-4. 🗣 Commented on [#4075](https://github.com/hyprwm/Hyprland/issues/4075#issuecomment-1843601629) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-5. ❗ Opened issue [#4075](https://github.com/hyprwm/Hyprland/issues/4075) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 💪 Opened PR [#2](https://github.com/MaKaNu/fourierdrawing/pull/2) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
+2. 🎉 Merged PR [#1](https://github.com/MaKaNu/fourierdrawing/pull/1) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
+3. ❗ Opened issue [#922](https://github.com/pytest-dev/pyfakefs/issues/922) in [pytest-dev/pyfakefs](https://github.com/pytest-dev/pyfakefs)
+4. 🗣 Commented on [#1232](https://github.com/gitkraken/vscode-gitlens/issues/1232#issuecomment-1847477789) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
+5. 🗣 Commented on [#4075](https://github.com/hyprwm/Hyprland/issues/4075#issuecomment-1843601629) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
    
 </details>
