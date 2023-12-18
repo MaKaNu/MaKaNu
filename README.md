@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/MaKaNu/fourierdrawing/pull/3) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
-2. 💪 Opened PR [#2](https://github.com/MaKaNu/fourierdrawing/pull/2) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
-3. 🎉 Merged PR [#1](https://github.com/MaKaNu/fourierdrawing/pull/1) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
-4. ❗ Opened issue [#922](https://github.com/pytest-dev/pyfakefs/issues/922) in [pytest-dev/pyfakefs](https://github.com/pytest-dev/pyfakefs)
-5. 🗣 Commented on [#1232](https://github.com/gitkraken/vscode-gitlens/issues/1232#issuecomment-1847477789) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
+1. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409#issuecomment-1861746510) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 💪 Opened PR [#3](https://github.com/MaKaNu/fourierdrawing/pull/3) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
+3. 💪 Opened PR [#2](https://github.com/MaKaNu/fourierdrawing/pull/2) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
+4. 🎉 Merged PR [#1](https://github.com/MaKaNu/fourierdrawing/pull/1) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
+5. ❗ Opened issue [#922](https://github.com/pytest-dev/pyfakefs/issues/922) in [pytest-dev/pyfakefs](https://github.com/pytest-dev/pyfakefs)
 <!--END_SECTION:activity-->
    
 </details>
