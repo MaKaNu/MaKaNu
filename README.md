@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8811](https://github.com/python-poetry/poetry/issues/8811) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409#issuecomment-1861746510) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. 💪 Opened PR [#3](https://github.com/MaKaNu/fourierdrawing/pull/3) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
-4. 💪 Opened PR [#2](https://github.com/MaKaNu/fourierdrawing/pull/2) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
-5. 🎉 Merged PR [#1](https://github.com/MaKaNu/fourierdrawing/pull/1) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
+1. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1864714353) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. ❗ Opened issue [#8811](https://github.com/python-poetry/poetry/issues/8811) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409#issuecomment-1861746510) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+4. 💪 Opened PR [#3](https://github.com/MaKaNu/fourierdrawing/pull/3) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
+5. 💪 Opened PR [#2](https://github.com/MaKaNu/fourierdrawing/pull/2) in [MaKaNu/fourierdrawing](https://github.com/MaKaNu/fourierdrawing)
 <!--END_SECTION:activity-->
    
 </details>
