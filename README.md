@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866385806) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866258406) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866250208) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1864714353) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. ❗ Opened issue [#8811](https://github.com/python-poetry/poetry/issues/8811) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 💪 Opened PR [#8814](https://github.com/python-poetry/poetry/pull/8814) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866385806) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866258406) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+4. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866250208) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1864714353) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
    
 </details>
