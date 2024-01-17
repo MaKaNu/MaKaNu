@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1124](https://github.com/Morganamilo/paru/issues/1124) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
-2. ❗ Opened issue [#4004](https://github.com/phpipam/phpipam/issues/4004) in [phpipam/phpipam](https://github.com/phpipam/phpipam)
-3. 💪 Opened PR [#8814](https://github.com/python-poetry/poetry/pull/8814) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866385806) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866258406) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. ❗ Opened issue [#82553](https://github.com/ansible/ansible/issues/82553) in [ansible/ansible](https://github.com/ansible/ansible)
+2. ❗ Opened issue [#1124](https://github.com/Morganamilo/paru/issues/1124) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+3. ❗ Opened issue [#4004](https://github.com/phpipam/phpipam/issues/4004) in [phpipam/phpipam](https://github.com/phpipam/phpipam)
+4. 💪 Opened PR [#8814](https://github.com/python-poetry/poetry/pull/8814) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+5. 🗣 Commented on [#8811](https://github.com/python-poetry/poetry/issues/8811#issuecomment-1866385806) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 <!--END_SECTION:activity-->
    
 </details>
