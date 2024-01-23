@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#576](https://github.com/ansible-collections/ansible.windows/issues/576) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
-2. ❗ Opened issue [#82553](https://github.com/ansible/ansible/issues/82553) in [ansible/ansible](https://github.com/ansible/ansible)
-3. ❗ Opened issue [#1124](https://github.com/Morganamilo/paru/issues/1124) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
-4. ❗ Opened issue [#4004](https://github.com/phpipam/phpipam/issues/4004) in [phpipam/phpipam](https://github.com/phpipam/phpipam)
-5. 💪 Opened PR [#8814](https://github.com/python-poetry/poetry/pull/8814) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 🗣 Commented on [#576](https://github.com/ansible-collections/ansible.windows/issues/576#issuecomment-1906353842) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
+2. ❗ Opened issue [#576](https://github.com/ansible-collections/ansible.windows/issues/576) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
+3. ❗ Opened issue [#82553](https://github.com/ansible/ansible/issues/82553) in [ansible/ansible](https://github.com/ansible/ansible)
+4. ❗ Opened issue [#1124](https://github.com/Morganamilo/paru/issues/1124) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+5. ❗ Opened issue [#4004](https://github.com/phpipam/phpipam/issues/4004) in [phpipam/phpipam](https://github.com/phpipam/phpipam)
 <!--END_SECTION:activity-->
    
 </details>
