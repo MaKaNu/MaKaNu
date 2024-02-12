@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1164](https://github.com/polybar/polybar/issues/1164#issuecomment-1912571103) in [polybar/polybar](https://github.com/polybar/polybar)
-2. 🗣 Commented on [#576](https://github.com/ansible-collections/ansible.windows/issues/576#issuecomment-1906353842) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
-3. ❗ Opened issue [#576](https://github.com/ansible-collections/ansible.windows/issues/576) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
-4. ❗ Opened issue [#82553](https://github.com/ansible/ansible/issues/82553) in [ansible/ansible](https://github.com/ansible/ansible)
-5. ❗ Opened issue [#1124](https://github.com/Morganamilo/paru/issues/1124) in [Morganamilo/paru](https://github.com/Morganamilo/paru)
+1. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409#issuecomment-1938222862) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🗣 Commented on [#1164](https://github.com/polybar/polybar/issues/1164#issuecomment-1912571103) in [polybar/polybar](https://github.com/polybar/polybar)
+3. 🗣 Commented on [#576](https://github.com/ansible-collections/ansible.windows/issues/576#issuecomment-1906353842) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
+4. ❗ Opened issue [#576](https://github.com/ansible-collections/ansible.windows/issues/576) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
+5. ❗ Opened issue [#82553](https://github.com/ansible/ansible/issues/82553) in [ansible/ansible](https://github.com/ansible/ansible)
 <!--END_SECTION:activity-->
    
 </details>
