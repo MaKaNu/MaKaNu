@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15299](https://github.com/netbox-community/netbox/issues/15299) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
-2. ❗ Opened issue [#24](https://github.com/mpeteuil/poetry-dotenv-plugin/issues/24) in [mpeteuil/poetry-dotenv-plugin](https://github.com/mpeteuil/poetry-dotenv-plugin)
-3. 🗣 Commented on [#15](https://github.com/mpeteuil/poetry-dotenv-plugin/issues/15#issuecomment-1945662355) in [mpeteuil/poetry-dotenv-plugin](https://github.com/mpeteuil/poetry-dotenv-plugin)
-4. 🗣 Commented on [#2](https://github.com/markx86/opentrack-wine-guide/issues/2#issuecomment-1940801157) in [markx86/opentrack-wine-guide](https://github.com/markx86/opentrack-wine-guide)
-5. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409#issuecomment-1938222862) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 🗣 Commented on [#15299](https://github.com/netbox-community/netbox/issues/15299#issuecomment-1969162141) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
+2. ❗ Opened issue [#15299](https://github.com/netbox-community/netbox/issues/15299) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
+3. ❗ Opened issue [#24](https://github.com/mpeteuil/poetry-dotenv-plugin/issues/24) in [mpeteuil/poetry-dotenv-plugin](https://github.com/mpeteuil/poetry-dotenv-plugin)
+4. 🗣 Commented on [#15](https://github.com/mpeteuil/poetry-dotenv-plugin/issues/15#issuecomment-1945662355) in [mpeteuil/poetry-dotenv-plugin](https://github.com/mpeteuil/poetry-dotenv-plugin)
+5. 🗣 Commented on [#2](https://github.com/markx86/opentrack-wine-guide/issues/2#issuecomment-1940801157) in [markx86/opentrack-wine-guide](https://github.com/markx86/opentrack-wine-guide)
 <!--END_SECTION:activity-->
    
 </details>
