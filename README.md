@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#206612](https://github.com/microsoft/vscode/issues/206612) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#15299](https://github.com/netbox-community/netbox/issues/15299#issuecomment-1969506733) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
-3. 🗣 Commented on [#15299](https://github.com/netbox-community/netbox/issues/15299#issuecomment-1969162141) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
-4. ❗ Opened issue [#15299](https://github.com/netbox-community/netbox/issues/15299) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
-5. ❗ Opened issue [#24](https://github.com/mpeteuil/poetry-dotenv-plugin/issues/24) in [mpeteuil/poetry-dotenv-plugin](https://github.com/mpeteuil/poetry-dotenv-plugin)
+1. 🗣 Commented on [#15299](https://github.com/netbox-community/netbox/issues/15299#issuecomment-1976678339) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
+2. ❗ Opened issue [#206612](https://github.com/microsoft/vscode/issues/206612) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#15299](https://github.com/netbox-community/netbox/issues/15299#issuecomment-1969506733) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
+4. 🗣 Commented on [#15299](https://github.com/netbox-community/netbox/issues/15299#issuecomment-1969162141) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
+5. ❗ Opened issue [#15299](https://github.com/netbox-community/netbox/issues/15299) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
 <!--END_SECTION:activity-->
    
 </details>
