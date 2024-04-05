@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/mgajda83/PSWindowsUpdate/issues/18) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
-2. ❗ Opened issue [#98](https://github.com/teknowledgist/Chocolatey-packages/issues/98) in [teknowledgist/Chocolatey-packages](https://github.com/teknowledgist/Chocolatey-packages)
-3. 🗣 Commented on [#2661](https://github.com/hyprwm/Hyprland/issues/2661#issuecomment-1985209624) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-4. ❗ Opened issue [#590](https://github.com/ansible-collections/ansible.windows/issues/590) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
-5. 🗣 Commented on [#2661](https://github.com/hyprwm/Hyprland/issues/2661#issuecomment-1978276904) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 🗣 Commented on [#17](https://github.com/mgajda83/PSWindowsUpdate/issues/17#issuecomment-2039714608) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
+2. ❗ Opened issue [#18](https://github.com/mgajda83/PSWindowsUpdate/issues/18) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
+3. ❗ Opened issue [#98](https://github.com/teknowledgist/Chocolatey-packages/issues/98) in [teknowledgist/Chocolatey-packages](https://github.com/teknowledgist/Chocolatey-packages)
+4. 🗣 Commented on [#2661](https://github.com/hyprwm/Hyprland/issues/2661#issuecomment-1985209624) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+5. ❗ Opened issue [#590](https://github.com/ansible-collections/ansible.windows/issues/590) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
 <!--END_SECTION:activity-->
    
 </details>
