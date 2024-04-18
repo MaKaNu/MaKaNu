@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#638](https://github.com/audreyfeldroy/cookiecutter-pypackage/issues/638#issuecomment-2041141153) in [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
-2. 🔒 Closed issue [#638](https://github.com/audreyfeldroy/cookiecutter-pypackage/issues/638) in [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
-3. 🗣 Commented on [#18](https://github.com/mgajda83/PSWindowsUpdate/issues/18#issuecomment-2041140808) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
-4. 🔒 Closed issue [#18](https://github.com/mgajda83/PSWindowsUpdate/issues/18) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
-5. 🗣 Commented on [#17](https://github.com/mgajda83/PSWindowsUpdate/issues/17#issuecomment-2039714608) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
+1. 💪 Opened PR [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
+2. 🗣 Commented on [#638](https://github.com/audreyfeldroy/cookiecutter-pypackage/issues/638#issuecomment-2041141153) in [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
+3. 🔒 Closed issue [#638](https://github.com/audreyfeldroy/cookiecutter-pypackage/issues/638) in [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
+4. 🗣 Commented on [#18](https://github.com/mgajda83/PSWindowsUpdate/issues/18#issuecomment-2041140808) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
+5. 🔒 Closed issue [#18](https://github.com/mgajda83/PSWindowsUpdate/issues/18) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
 <!--END_SECTION:activity-->
    
 </details>
