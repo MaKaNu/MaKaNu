@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Frogging-Family/glibc-eac/issues/14#issuecomment-2118872066) in [Frogging-Family/glibc-eac](https://github.com/Frogging-Family/glibc-eac)
-2. ❗ Opened issue [#14](https://github.com/Frogging-Family/glibc-eac/issues/14) in [Frogging-Family/glibc-eac](https://github.com/Frogging-Family/glibc-eac)
-3. 💪 Opened PR [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
-4. 🗣 Commented on [#638](https://github.com/audreyfeldroy/cookiecutter-pypackage/issues/638#issuecomment-2041141153) in [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
-5. 🔒 Closed issue [#638](https://github.com/audreyfeldroy/cookiecutter-pypackage/issues/638) in [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
+1. ❗ Opened issue [#23457](https://github.com/microsoft/vscode-python/issues/23457) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+2. 🗣 Commented on [#14](https://github.com/Frogging-Family/glibc-eac/issues/14#issuecomment-2118872066) in [Frogging-Family/glibc-eac](https://github.com/Frogging-Family/glibc-eac)
+3. ❗ Opened issue [#14](https://github.com/Frogging-Family/glibc-eac/issues/14) in [Frogging-Family/glibc-eac](https://github.com/Frogging-Family/glibc-eac)
+4. 💪 Opened PR [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
+5. 🗣 Commented on [#638](https://github.com/audreyfeldroy/cookiecutter-pypackage/issues/638#issuecomment-2041141153) in [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
 <!--END_SECTION:activity-->
    
 </details>
