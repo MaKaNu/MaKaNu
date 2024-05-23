@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23457](https://github.com/microsoft/vscode-python/issues/23457#issuecomment-2125833278) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-2. 🔒 Closed issue [#23457](https://github.com/microsoft/vscode-python/issues/23457) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-3. 🗣 Commented on [#23457](https://github.com/microsoft/vscode-python/issues/23457#issuecomment-2123114436) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-4. ❗ Opened issue [#23457](https://github.com/microsoft/vscode-python/issues/23457) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-5. 🗣 Commented on [#14](https://github.com/Frogging-Family/glibc-eac/issues/14#issuecomment-2118872066) in [Frogging-Family/glibc-eac](https://github.com/Frogging-Family/glibc-eac)
+1. ❗ Opened issue [#125](https://github.com/altendky/pyqt-tools/issues/125) in [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools)
+2. 🗣 Commented on [#23457](https://github.com/microsoft/vscode-python/issues/23457#issuecomment-2125833278) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+3. 🔒 Closed issue [#23457](https://github.com/microsoft/vscode-python/issues/23457) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+4. 🗣 Commented on [#23457](https://github.com/microsoft/vscode-python/issues/23457#issuecomment-2123114436) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+5. ❗ Opened issue [#23457](https://github.com/microsoft/vscode-python/issues/23457) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
 <!--END_SECTION:activity-->
    
 </details>
