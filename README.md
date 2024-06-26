@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2168480260) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-2. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2165062603) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-3. ❗ Opened issue [#125](https://github.com/altendky/pyqt-tools/issues/125) in [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools)
-4. 🗣 Commented on [#23457](https://github.com/microsoft/vscode-python/issues/23457#issuecomment-2125833278) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-5. 🔒 Closed issue [#23457](https://github.com/microsoft/vscode-python/issues/23457) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+1. 🗣 Commented on [#2759](https://github.com/cookiecutter/cookiecutter-django/issues/2759#issuecomment-2191575755) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
+2. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2168480260) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+3. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2165062603) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+4. ❗ Opened issue [#125](https://github.com/altendky/pyqt-tools/issues/125) in [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools)
+5. 🗣 Commented on [#23457](https://github.com/microsoft/vscode-python/issues/23457#issuecomment-2125833278) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
 <!--END_SECTION:activity-->
    
 </details>
