@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/mgajda83/PSWindowsUpdate/issues/18#issuecomment-2203397806) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
-2. 🗣 Commented on [#2759](https://github.com/cookiecutter/cookiecutter-django/issues/2759#issuecomment-2191575755) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
-3. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2168480260) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-4. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2165062603) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-5. ❗ Opened issue [#125](https://github.com/altendky/pyqt-tools/issues/125) in [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools)
+1. 🗣 Commented on [#1](https://github.com/ImranNust/AortaSeg24/issues/1#issuecomment-2231239514) in [ImranNust/AortaSeg24](https://github.com/ImranNust/AortaSeg24)
+2. 🗣 Commented on [#18](https://github.com/mgajda83/PSWindowsUpdate/issues/18#issuecomment-2203397806) in [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate)
+3. 🗣 Commented on [#2759](https://github.com/cookiecutter/cookiecutter-django/issues/2759#issuecomment-2191575755) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
+4. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2168480260) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+5. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2165062603) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
 <!--END_SECTION:activity-->
    
 </details>
