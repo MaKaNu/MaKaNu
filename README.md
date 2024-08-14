@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2287157225) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-2. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2284089725) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-3. 🗣 Commented on [#667](https://github.com/EESSI/software-layer/pull/667#issuecomment-2284011724) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-4. 💪 Opened PR [#668](https://github.com/EESSI/software-layer/pull/668) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-5. 🗣 Commented on [#667](https://github.com/EESSI/software-layer/pull/667#issuecomment-2283722300) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+1. 🎉 Merged PR [#1](https://github.com/MaKaNu/AortaSeg24/pull/1) in [MaKaNu/AortaSeg24](https://github.com/MaKaNu/AortaSeg24)
+2. 💪 Opened PR [#1](https://github.com/MaKaNu/AortaSeg24/pull/1) in [MaKaNu/AortaSeg24](https://github.com/MaKaNu/AortaSeg24)
+3. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2287157225) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+4. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2284089725) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+5. 🗣 Commented on [#667](https://github.com/EESSI/software-layer/pull/667#issuecomment-2284011724) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
 <!--END_SECTION:activity-->
    
 </details>
