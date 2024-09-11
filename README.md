@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2334470833) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-2. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2334460881) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-3. 🗣 Commented on [#667](https://github.com/EESSI/software-layer/pull/667#issuecomment-2321782536) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-4. 🗣 Commented on [#667](https://github.com/EESSI/software-layer/pull/667#issuecomment-2310012111) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-5. 🎉 Merged PR [#1](https://github.com/MaKaNu/software-layer/pull/1) in [MaKaNu/software-layer](https://github.com/MaKaNu/software-layer)
+1. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2344277450) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+2. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2334470833) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+3. 🗣 Commented on [#668](https://github.com/EESSI/software-layer/pull/668#issuecomment-2334460881) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+4. 🗣 Commented on [#667](https://github.com/EESSI/software-layer/pull/667#issuecomment-2321782536) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+5. 🗣 Commented on [#667](https://github.com/EESSI/software-layer/pull/667#issuecomment-2310012111) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
 <!--END_SECTION:activity-->
    
 </details>
