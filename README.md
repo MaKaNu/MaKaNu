@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2370684215) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-2. 🗣 Commented on [#304](https://github.com/kubernetes/kubeadm/issues/304#issuecomment-2367695926) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
-3. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2367638949) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
-4. 🗣 Commented on [#574](https://github.com/geerlingguy/ansible-for-devops/issues/574#issuecomment-2357808400) in [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)
-5. 🗣 Commented on [#4256](https://github.com/ansible/molecule/issues/4256#issuecomment-2356041031) in [ansible/molecule](https://github.com/ansible/molecule)
+1. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2371413797) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+2. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2370684215) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+3. 🗣 Commented on [#304](https://github.com/kubernetes/kubeadm/issues/304#issuecomment-2367695926) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+4. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2367638949) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+5. 🗣 Commented on [#574](https://github.com/geerlingguy/ansible-for-devops/issues/574#issuecomment-2357808400) in [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)
 <!--END_SECTION:activity-->
    
 </details>
