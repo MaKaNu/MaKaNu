@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2371477987) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-2. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2371413797) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-3. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2370684215) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-4. 🗣 Commented on [#304](https://github.com/kubernetes/kubeadm/issues/304#issuecomment-2367695926) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
-5. 🗣 Commented on [#957](https://github.com/netbootxyz/netboot.xyz/issues/957#issuecomment-2367638949) in [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+1. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2374415860) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+2. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2374409623) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+3. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2371477987) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+4. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2371413797) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+5. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2370684215) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
 <!--END_SECTION:activity-->
    
 </details>
