@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#544](https://github.com/ansible-collections/ansible.posix/pull/544#issuecomment-2376377101) in [ansible-collections/ansible.posix](https://github.com/ansible-collections/ansible.posix)
-2. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2374415860) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-3. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2374409623) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-4. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2371477987) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
-5. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2371413797) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+1. 🗣 Commented on [#282](https://github.com/browniebroke/pypackage-template/issues/282#issuecomment-2416144430) in [browniebroke/pypackage-template](https://github.com/browniebroke/pypackage-template)
+2. 🗣 Commented on [#544](https://github.com/ansible-collections/ansible.posix/pull/544#issuecomment-2416134614) in [ansible-collections/ansible.posix](https://github.com/ansible-collections/ansible.posix)
+3. 🗣 Commented on [#544](https://github.com/ansible-collections/ansible.posix/pull/544#issuecomment-2376377101) in [ansible-collections/ansible.posix](https://github.com/ansible-collections/ansible.posix)
+4. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2374415860) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
+5. 🗣 Commented on [#694](https://github.com/EESSI/software-layer/issues/694#issuecomment-2374409623) in [EESSI/software-layer](https://github.com/EESSI/software-layer)
 <!--END_SECTION:activity-->
    
 </details>
