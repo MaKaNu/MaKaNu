@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/ellisonleao/nvim-plugin-template/issues/12) in [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template)
-2. 🗣 Commented on [#649](https://github.com/notify-rs/notify/issues/649#issuecomment-2438340357) in [notify-rs/notify](https://github.com/notify-rs/notify)
-3. ❗ Opened issue [#649](https://github.com/notify-rs/notify/issues/649) in [notify-rs/notify](https://github.com/notify-rs/notify)
-4. 🗣 Commented on [#282](https://github.com/browniebroke/pypackage-template/issues/282#issuecomment-2416144430) in [browniebroke/pypackage-template](https://github.com/browniebroke/pypackage-template)
-5. 🗣 Commented on [#544](https://github.com/ansible-collections/ansible.posix/pull/544#issuecomment-2416134614) in [ansible-collections/ansible.posix](https://github.com/ansible-collections/ansible.posix)
+1. ❗ Opened issue [#2534](https://github.com/semaphoreui/semaphore/issues/2534) in [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)
+2. ❗ Opened issue [#12](https://github.com/ellisonleao/nvim-plugin-template/issues/12) in [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template)
+3. 🗣 Commented on [#649](https://github.com/notify-rs/notify/issues/649#issuecomment-2438340357) in [notify-rs/notify](https://github.com/notify-rs/notify)
+4. ❗ Opened issue [#649](https://github.com/notify-rs/notify/issues/649) in [notify-rs/notify](https://github.com/notify-rs/notify)
+5. 🗣 Commented on [#282](https://github.com/browniebroke/pypackage-template/issues/282#issuecomment-2416144430) in [browniebroke/pypackage-template](https://github.com/browniebroke/pypackage-template)
 <!--END_SECTION:activity-->
    
 </details>
