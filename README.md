@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2534](https://github.com/semaphoreui/semaphore/issues/2534#issuecomment-2473983193) in [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)
-2. ❗ Opened issue [#2534](https://github.com/semaphoreui/semaphore/issues/2534) in [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)
-3. ❗ Opened issue [#12](https://github.com/ellisonleao/nvim-plugin-template/issues/12) in [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template)
-4. 🗣 Commented on [#649](https://github.com/notify-rs/notify/issues/649#issuecomment-2438340357) in [notify-rs/notify](https://github.com/notify-rs/notify)
-5. ❗ Opened issue [#649](https://github.com/notify-rs/notify/issues/649) in [notify-rs/notify](https://github.com/notify-rs/notify)
+1. ❗ Opened issue [#31](https://github.com/astral-sh/uv-docker-example/issues/31) in [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example)
+2. 🗣 Commented on [#2534](https://github.com/semaphoreui/semaphore/issues/2534#issuecomment-2473983193) in [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)
+3. ❗ Opened issue [#2534](https://github.com/semaphoreui/semaphore/issues/2534) in [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)
+4. ❗ Opened issue [#12](https://github.com/ellisonleao/nvim-plugin-template/issues/12) in [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template)
+5. 🗣 Commented on [#649](https://github.com/notify-rs/notify/issues/649#issuecomment-2438340357) in [notify-rs/notify](https://github.com/notify-rs/notify)
 <!--END_SECTION:activity-->
    
 </details>
