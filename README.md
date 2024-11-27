@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9361](https://github.com/astral-sh/uv/issues/9361#issuecomment-2494965973) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🔒 Closed issue [#9361](https://github.com/astral-sh/uv/issues/9361) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. ❗ Opened issue [#9361](https://github.com/astral-sh/uv/issues/9361) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. ❗ Opened issue [#31](https://github.com/astral-sh/uv-docker-example/issues/31) in [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example)
-5. 🗣 Commented on [#2534](https://github.com/semaphoreui/semaphore/issues/2534#issuecomment-2473983193) in [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)
+1. 🗣 Commented on [#31](https://github.com/astral-sh/uv-docker-example/issues/31#issuecomment-2503222685) in [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example)
+2. 🔒 Closed issue [#31](https://github.com/astral-sh/uv-docker-example/issues/31) in [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example)
+3. 🗣 Commented on [#9361](https://github.com/astral-sh/uv/issues/9361#issuecomment-2494965973) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🔒 Closed issue [#9361](https://github.com/astral-sh/uv/issues/9361) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. ❗ Opened issue [#9361](https://github.com/astral-sh/uv/issues/9361) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
    
 </details>
