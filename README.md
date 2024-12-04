@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/fpgmaas/cookiecutter-uv/issues/29) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
-2. ❗ Opened issue [#28](https://github.com/fpgmaas/cookiecutter-uv/issues/28) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
-3. 🚀 Published release [Release 0.0.1](https://github.com/MaKaNu/semver-check/releases/tag/0.0.1) in [MaKaNu/semver-check](https://github.com/MaKaNu/semver-check)
-4. 🗣 Commented on [#31](https://github.com/astral-sh/uv-docker-example/issues/31#issuecomment-2503222685) in [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example)
-5. 🔒 Closed issue [#31](https://github.com/astral-sh/uv-docker-example/issues/31) in [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example)
+1. 🎉 Merged PR [#1](https://github.com/MaKaNu/semver-check/pull/1) in [MaKaNu/semver-check](https://github.com/MaKaNu/semver-check)
+2. 💪 Opened PR [#1](https://github.com/MaKaNu/semver-check/pull/1) in [MaKaNu/semver-check](https://github.com/MaKaNu/semver-check)
+3. 💪 Opened PR [#30](https://github.com/fpgmaas/cookiecutter-uv/pull/30) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+4. ❗ Opened issue [#29](https://github.com/fpgmaas/cookiecutter-uv/issues/29) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+5. ❗ Opened issue [#28](https://github.com/fpgmaas/cookiecutter-uv/issues/28) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
 <!--END_SECTION:activity-->
    
 </details>
