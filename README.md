@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/MaKaNu/boxsup-pytorch/issues/9) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
-2. ❗ Opened issue [#8](https://github.com/MaKaNu/boxsup-pytorch/issues/8) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
-3. ❗ Opened issue [#7](https://github.com/MaKaNu/boxsup-pytorch/issues/7) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
-4. ❗ Opened issue [#6](https://github.com/MaKaNu/boxsup-pytorch/issues/6) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
-5. ❗ Opened issue [#5](https://github.com/MaKaNu/boxsup-pytorch/issues/5) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
+1. 💪 Opened PR [#1](https://github.com/MaKaNu/pytorch-sparse-special/pull/1) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
+2. 🗣 Commented on [#29](https://github.com/fpgmaas/cookiecutter-uv/issues/29#issuecomment-2569648239) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+3. 🔒 Closed issue [#29](https://github.com/fpgmaas/cookiecutter-uv/issues/29) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+4. ❗ Opened issue [#9](https://github.com/MaKaNu/boxsup-pytorch/issues/9) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
+5. ❗ Opened issue [#8](https://github.com/MaKaNu/boxsup-pytorch/issues/8) in [MaKaNu/boxsup-pytorch](https://github.com/MaKaNu/boxsup-pytorch)
 <!--END_SECTION:activity-->
    
 </details>
