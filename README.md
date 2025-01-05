@@ -40,11 +40,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#144210](https://github.com/pytorch/pytorch/issues/144210) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 🚀 Published release [v0.0.1](https://github.com/MaKaNu/pytorch-sparse-special/releases/tag/0.0.1) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
-3. 🎉 Merged PR [#1](https://github.com/MaKaNu/pytorch-sparse-special/pull/1) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
-4. 💪 Opened PR [#1](https://github.com/MaKaNu/pytorch-sparse-special/pull/1) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
-5. 🗣 Commented on [#29](https://github.com/fpgmaas/cookiecutter-uv/issues/29#issuecomment-2569648239) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+1. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2571618592) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
+2. 🚀 Published release [0.0.2](https://github.com/MaKaNu/pytorch-sparse-special/releases/tag/0.0.2) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
+3. 🎉 Merged PR [#2](https://github.com/MaKaNu/pytorch-sparse-special/pull/2) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
+4. 💪 Opened PR [#2](https://github.com/MaKaNu/pytorch-sparse-special/pull/2) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
+5. ❗ Opened issue [#144210](https://github.com/pytorch/pytorch/issues/144210) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
    
 </details>
