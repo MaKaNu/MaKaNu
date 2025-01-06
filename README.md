@@ -9,15 +9,11 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=makanu&theme=juicyfresh&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
-- 🔭 I’m currently working on [Master Thesis](https://github.com/MaKaNu/boxsup-pytorch)
+- 🔭 I’m currently still working on [Master Thesis](https://github.com/MaKaNu/boxsup-pytorch)
 
 - 💬 Ask me about **linux, python**
 
 - 📫 How to reach me **matti.kaupenjohann@fh-dortmund.de**
-
-- 👨‍💻 All of my projects are available at [www.makanu.de/projects](www.makanu.de/projects)
-
-- 📝 I regularly write articles on [www.makanu.de/blog](www.makanu.de/blog)
 
 - ⚡ Fun fact: **My nickname come from the initial of my name and my favorite sport**
 
