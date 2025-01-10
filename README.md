@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4345](https://github.com/ansible/molecule/issues/4345#issuecomment-2577769908) in [ansible/molecule](https://github.com/ansible/molecule)
-2. 🚀 Published release [0.1.1](https://github.com/MaKaNu/pytorch-sparse-special/releases/tag/0.1.1) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
-3. 🎉 Merged PR [#6](https://github.com/MaKaNu/pytorch-sparse-special/pull/6) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
-4. 💪 Opened PR [#6](https://github.com/MaKaNu/pytorch-sparse-special/pull/6) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
-5. 🚀 Published release [0.1.0](https://github.com/MaKaNu/pytorch-sparse-special/releases/tag/0.1.0) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
+1. ❗ Opened issue [#8842](https://github.com/pytorch/vision/issues/8842) in [pytorch/vision](https://github.com/pytorch/vision)
+2. 🗣 Commented on [#4345](https://github.com/ansible/molecule/issues/4345#issuecomment-2577769908) in [ansible/molecule](https://github.com/ansible/molecule)
+3. 🚀 Published release [0.1.1](https://github.com/MaKaNu/pytorch-sparse-special/releases/tag/0.1.1) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
+4. 🎉 Merged PR [#6](https://github.com/MaKaNu/pytorch-sparse-special/pull/6) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
+5. 💪 Opened PR [#6](https://github.com/MaKaNu/pytorch-sparse-special/pull/6) in [MaKaNu/pytorch-sparse-special](https://github.com/MaKaNu/pytorch-sparse-special)
 <!--END_SECTION:activity-->
    
 </details>
