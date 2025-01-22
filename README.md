@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2588004928) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
-2. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2587976668) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
-3. 🗣 Commented on [#8842](https://github.com/pytorch/vision/issues/8842#issuecomment-2580124329) in [pytorch/vision](https://github.com/pytorch/vision)
-4. ❗ Opened issue [#8842](https://github.com/pytorch/vision/issues/8842) in [pytorch/vision](https://github.com/pytorch/vision)
-5. 🗣 Commented on [#4345](https://github.com/ansible/molecule/issues/4345#issuecomment-2577769908) in [ansible/molecule](https://github.com/ansible/molecule)
+1. 🚀 Published release [0.0.1](https://github.com/MaKaNu/PytorchPipeline/releases/tag/0.0.1) in [MaKaNu/PytorchPipeline](https://github.com/MaKaNu/PytorchPipeline)
+2. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2588004928) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
+3. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2587976668) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
+4. 🗣 Commented on [#8842](https://github.com/pytorch/vision/issues/8842#issuecomment-2580124329) in [pytorch/vision](https://github.com/pytorch/vision)
+5. ❗ Opened issue [#8842](https://github.com/pytorch/vision/issues/8842) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
    
 </details>
