@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.2](https://github.com/MaKaNu/PytorchImagePipeline/releases/tag/0.0.2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
-2. 🚀 Published release [0.0.1](https://github.com/MaKaNu/PytorchPipeline/releases/tag/0.0.1) in [MaKaNu/PytorchPipeline](https://github.com/MaKaNu/PytorchPipeline)
-3. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2588004928) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
-4. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2587976668) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
-5. 🗣 Commented on [#8842](https://github.com/pytorch/vision/issues/8842#issuecomment-2580124329) in [pytorch/vision](https://github.com/pytorch/vision)
+1. ❗ Opened issue [#232](https://github.com/mkdocstrings/python/issues/232) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
+2. 🚀 Published release [0.0.2](https://github.com/MaKaNu/PytorchImagePipeline/releases/tag/0.0.2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
+3. 🚀 Published release [0.0.1](https://github.com/MaKaNu/PytorchPipeline/releases/tag/0.0.1) in [MaKaNu/PytorchPipeline](https://github.com/MaKaNu/PytorchPipeline)
+4. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2588004928) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
+5. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2587976668) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
 <!--END_SECTION:activity-->
    
 </details>
