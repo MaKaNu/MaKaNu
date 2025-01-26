@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MaKaNu/PytorchImagePipeline/pull/1) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
-2. ❗ Opened issue [#232](https://github.com/mkdocstrings/python/issues/232) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
-3. 🚀 Published release [0.0.2](https://github.com/MaKaNu/PytorchImagePipeline/releases/tag/0.0.2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
-4. 🚀 Published release [0.0.1](https://github.com/MaKaNu/PytorchPipeline/releases/tag/0.0.1) in [MaKaNu/PytorchPipeline](https://github.com/MaKaNu/PytorchPipeline)
-5. 🗣 Commented on [#12034](https://github.com/snipe/snipe-it/issues/12034#issuecomment-2588004928) in [snipe/snipe-it](https://github.com/snipe/snipe-it)
+1. 🚀 Published release [0.0.3](https://github.com/MaKaNu/PytorchImagePipeline/releases/tag/0.0.3) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
+2. 🎉 Merged PR [#2](https://github.com/MaKaNu/PytorchImagePipeline/pull/2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
+3. 💪 Opened PR [#2](https://github.com/MaKaNu/PytorchImagePipeline/pull/2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
+4. 🎉 Merged PR [#1](https://github.com/MaKaNu/PytorchImagePipeline/pull/1) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
+5. 💪 Opened PR [#1](https://github.com/MaKaNu/PytorchImagePipeline/pull/1) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
 <!--END_SECTION:activity-->
    
 </details>
