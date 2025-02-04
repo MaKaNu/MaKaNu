@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84569](https://github.com/ansible/ansible/pull/84569#issuecomment-2615202888) in [ansible/ansible](https://github.com/ansible/ansible)
-2. 🚀 Published release [0.0.3](https://github.com/MaKaNu/PytorchImagePipeline/releases/tag/0.0.3) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
-3. 🎉 Merged PR [#2](https://github.com/MaKaNu/PytorchImagePipeline/pull/2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
-4. 💪 Opened PR [#2](https://github.com/MaKaNu/PytorchImagePipeline/pull/2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
-5. 🎉 Merged PR [#1](https://github.com/MaKaNu/PytorchImagePipeline/pull/1) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
+1. ❗ Opened issue [#810](https://github.com/facebookresearch/segment-anything/issues/810) in [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
+2. 🗣 Commented on [#84569](https://github.com/ansible/ansible/pull/84569#issuecomment-2615202888) in [ansible/ansible](https://github.com/ansible/ansible)
+3. 🚀 Published release [0.0.3](https://github.com/MaKaNu/PytorchImagePipeline/releases/tag/0.0.3) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
+4. 🎉 Merged PR [#2](https://github.com/MaKaNu/PytorchImagePipeline/pull/2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
+5. 💪 Opened PR [#2](https://github.com/MaKaNu/PytorchImagePipeline/pull/2) in [MaKaNu/PytorchImagePipeline](https://github.com/MaKaNu/PytorchImagePipeline)
 <!--END_SECTION:activity-->
    
 </details>
