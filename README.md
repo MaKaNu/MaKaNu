@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9490](https://github.com/siderolabs/talos/issues/9490#issuecomment-2694367767) in [siderolabs/talos](https://github.com/siderolabs/talos)
-2. 🗣 Commented on [#8842](https://github.com/pytorch/vision/issues/8842#issuecomment-2671731680) in [pytorch/vision](https://github.com/pytorch/vision)
-3. 🗣 Commented on [#8842](https://github.com/pytorch/vision/issues/8842#issuecomment-2671129034) in [pytorch/vision](https://github.com/pytorch/vision)
-4. 🗣 Commented on [#42](https://github.com/FirefighterBlu3/python-pam/issues/42#issuecomment-2666565047) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
-5. 🔒 Closed issue [#42](https://github.com/FirefighterBlu3/python-pam/issues/42) in [FirefighterBlu3/python-pam](https://github.com/FirefighterBlu3/python-pam)
+1. 🗣 Commented on [#144](https://github.com/isc-projects/kea/pull/144#issuecomment-2715020574) in [isc-projects/kea](https://github.com/isc-projects/kea)
+2. 💪 Opened PR [#144](https://github.com/isc-projects/kea/pull/144) in [isc-projects/kea](https://github.com/isc-projects/kea)
+3. 🗣 Commented on [#9490](https://github.com/siderolabs/talos/issues/9490#issuecomment-2694367767) in [siderolabs/talos](https://github.com/siderolabs/talos)
+4. 🗣 Commented on [#8842](https://github.com/pytorch/vision/issues/8842#issuecomment-2671731680) in [pytorch/vision](https://github.com/pytorch/vision)
+5. 🗣 Commented on [#8842](https://github.com/pytorch/vision/issues/8842#issuecomment-2671129034) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
    
 </details>
