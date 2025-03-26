@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/devon-mar/netbox-kea/issues/152#issuecomment-2743029731) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
-2. ❗ Opened issue [#152](https://github.com/devon-mar/netbox-kea/issues/152) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
-3. 🗣 Commented on [#144](https://github.com/isc-projects/kea/pull/144#issuecomment-2715020574) in [isc-projects/kea](https://github.com/isc-projects/kea)
-4. 💪 Opened PR [#144](https://github.com/isc-projects/kea/pull/144) in [isc-projects/kea](https://github.com/isc-projects/kea)
-5. 🗣 Commented on [#9490](https://github.com/siderolabs/talos/issues/9490#issuecomment-2694367767) in [siderolabs/talos](https://github.com/siderolabs/talos)
+1. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409#issuecomment-2754377014) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🗣 Commented on [#152](https://github.com/devon-mar/netbox-kea/issues/152#issuecomment-2743029731) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
+3. ❗ Opened issue [#152](https://github.com/devon-mar/netbox-kea/issues/152) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
+4. 🗣 Commented on [#144](https://github.com/isc-projects/kea/pull/144#issuecomment-2715020574) in [isc-projects/kea](https://github.com/isc-projects/kea)
+5. 💪 Opened PR [#144](https://github.com/isc-projects/kea/pull/144) in [isc-projects/kea](https://github.com/isc-projects/kea)
 <!--END_SECTION:activity-->
    
 </details>
