@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2768547387) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
-2. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409#issuecomment-2754377014) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. 🗣 Commented on [#152](https://github.com/devon-mar/netbox-kea/issues/152#issuecomment-2743029731) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
-4. ❗ Opened issue [#152](https://github.com/devon-mar/netbox-kea/issues/152) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
-5. 🗣 Commented on [#144](https://github.com/isc-projects/kea/pull/144#issuecomment-2715020574) in [isc-projects/kea](https://github.com/isc-projects/kea)
+1. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2772608880) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
+2. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2768547387) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
+3. 🗣 Commented on [#6409](https://github.com/python-poetry/poetry/issues/6409#issuecomment-2754377014) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+4. 🗣 Commented on [#152](https://github.com/devon-mar/netbox-kea/issues/152#issuecomment-2743029731) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
+5. ❗ Opened issue [#152](https://github.com/devon-mar/netbox-kea/issues/152) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
 <!--END_SECTION:activity-->
    
 </details>
