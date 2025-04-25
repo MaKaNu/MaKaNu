@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2465](https://github.com/huggingface/pytorch-image-models/issues/2465#issuecomment-2783831690) in [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)
-2. ❗ Opened issue [#2465](https://github.com/huggingface/pytorch-image-models/issues/2465) in [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)
-3. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2774897802) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
-4. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2772608880) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
-5. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2768547387) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
+1. ❗ Opened issue [#409](https://github.com/k3s-io/k3s-ansible/issues/409) in [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible)
+2. 🗣 Commented on [#2465](https://github.com/huggingface/pytorch-image-models/issues/2465#issuecomment-2783831690) in [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)
+3. ❗ Opened issue [#2465](https://github.com/huggingface/pytorch-image-models/issues/2465) in [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)
+4. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2774897802) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
+5. 🗣 Commented on [#1214](https://github.com/OpenBCI/OpenBCI_GUI/pull/1214#issuecomment-2772608880) in [OpenBCI/OpenBCI_GUI](https://github.com/OpenBCI/OpenBCI_GUI)
 <!--END_SECTION:activity-->
    
 </details>
