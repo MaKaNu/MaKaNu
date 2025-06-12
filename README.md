@@ -36,9 +36,9 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3506](https://github.com/ansible/galaxy/issues/3506) in [ansible/galaxy](https://github.com/ansible/galaxy)
-2. ❗ Opened issue [#209](https://github.com/t3n/helm-charts/issues/209) in [t3n/helm-charts](https://github.com/t3n/helm-charts)
-3. ❗ Opened issue [#409](https://github.com/k3s-io/k3s-ansible/issues/409) in [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible)
+1. 🗣 Commented on [#234](https://github.com/dancier/show-dancer/pull/234#issuecomment-2967571458) in [dancier/show-dancer](https://github.com/dancier/show-dancer)
+2. ❗ Opened issue [#3506](https://github.com/ansible/galaxy/issues/3506) in [ansible/galaxy](https://github.com/ansible/galaxy)
+3. ❗ Opened issue [#209](https://github.com/t3n/helm-charts/issues/209) in [t3n/helm-charts](https://github.com/t3n/helm-charts)
 4. 🗣 Commented on [#2465](https://github.com/huggingface/pytorch-image-models/issues/2465#issuecomment-2783831690) in [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)
 5. ❗ Opened issue [#2465](https://github.com/huggingface/pytorch-image-models/issues/2465) in [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)
 <!--END_SECTION:activity-->
