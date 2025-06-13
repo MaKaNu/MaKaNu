@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/trfore/docker-centos9-systemd/issues/61#issuecomment-2967829979) in [trfore/docker-centos9-systemd](https://github.com/trfore/docker-centos9-systemd)
-2. ❗ Opened issue [#61](https://github.com/trfore/docker-centos9-systemd/issues/61) in [trfore/docker-centos9-systemd](https://github.com/trfore/docker-centos9-systemd)
-3. 🗣 Commented on [#234](https://github.com/dancier/show-dancer/pull/234#issuecomment-2967571458) in [dancier/show-dancer](https://github.com/dancier/show-dancer)
-4. ❗ Opened issue [#3506](https://github.com/ansible/galaxy/issues/3506) in [ansible/galaxy](https://github.com/ansible/galaxy)
-5. ❗ Opened issue [#209](https://github.com/t3n/helm-charts/issues/209) in [t3n/helm-charts](https://github.com/t3n/helm-charts)
+1. 🗣 Commented on [#61](https://github.com/trfore/docker-centos9-systemd/issues/61#issuecomment-2969261392) in [trfore/docker-centos9-systemd](https://github.com/trfore/docker-centos9-systemd)
+2. 🗣 Commented on [#61](https://github.com/trfore/docker-centos9-systemd/issues/61#issuecomment-2967829979) in [trfore/docker-centos9-systemd](https://github.com/trfore/docker-centos9-systemd)
+3. ❗ Opened issue [#61](https://github.com/trfore/docker-centos9-systemd/issues/61) in [trfore/docker-centos9-systemd](https://github.com/trfore/docker-centos9-systemd)
+4. 🗣 Commented on [#234](https://github.com/dancier/show-dancer/pull/234#issuecomment-2967571458) in [dancier/show-dancer](https://github.com/dancier/show-dancer)
+5. ❗ Opened issue [#3506](https://github.com/ansible/galaxy/issues/3506) in [ansible/galaxy](https://github.com/ansible/galaxy)
 <!--END_SECTION:activity-->
    
 </details>
