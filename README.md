@@ -36,10 +36,10 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#739](https://github.com/ansible/instruqt/issues/739) in [ansible/instruqt](https://github.com/ansible/instruqt)
-2. ❗ Opened issue [#1](https://github.com/yunshuli2002/DehazingEcho2025/issues/1) in [yunshuli2002/DehazingEcho2025](https://github.com/yunshuli2002/DehazingEcho2025)
-3. 🗣 Commented on [#4380](https://github.com/ansible/molecule/pull/4380#issuecomment-3013539250) in [ansible/molecule](https://github.com/ansible/molecule)
-4. 🗣 Commented on [#3566](https://github.com/fail2ban/fail2ban/issues/3566#issuecomment-3001437838) in [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban)
+1. 🚀 Published release [Initial Release for Project configuration](https://github.com/MaKaNu/jjc-backend/releases/tag/0.0.1) in [MaKaNu/jjc-backend](https://github.com/MaKaNu/jjc-backend)
+2. ❗ Opened issue [#739](https://github.com/ansible/instruqt/issues/739) in [ansible/instruqt](https://github.com/ansible/instruqt)
+3. ❗ Opened issue [#1](https://github.com/yunshuli2002/DehazingEcho2025/issues/1) in [yunshuli2002/DehazingEcho2025](https://github.com/yunshuli2002/DehazingEcho2025)
+4. 🗣 Commented on [#4380](https://github.com/ansible/molecule/pull/4380#issuecomment-3013539250) in [ansible/molecule](https://github.com/ansible/molecule)
 5. 💪 Opened PR [#468](https://github.com/hackergarten/hackergarten.github.io/pull/468) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
    
