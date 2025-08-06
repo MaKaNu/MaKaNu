@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#588](https://github.com/ansible/ansible-dev-tools/issues/588#issuecomment-3128144212) in [ansible/ansible-dev-tools](https://github.com/ansible/ansible-dev-tools)
-2. ❗ Opened issue [#588](https://github.com/ansible/ansible-dev-tools/issues/588) in [ansible/ansible-dev-tools](https://github.com/ansible/ansible-dev-tools)
-3. 🚀 Published release [Initial Release for Project configuration](https://github.com/MaKaNu/jjc-backend/releases/tag/0.0.1) in [MaKaNu/jjc-backend](https://github.com/MaKaNu/jjc-backend)
-4. ❗ Opened issue [#739](https://github.com/ansible/instruqt/issues/739) in [ansible/instruqt](https://github.com/ansible/instruqt)
-5. ❗ Opened issue [#1](https://github.com/yunshuli2002/DehazingEcho2025/issues/1) in [yunshuli2002/DehazingEcho2025](https://github.com/yunshuli2002/DehazingEcho2025)
+1. 💪 Opened PR [#23](https://github.com/trfore/docker-image/pull/23) in [trfore/docker-image](https://github.com/trfore/docker-image)
+2. 🎉 Merged PR [#1](https://github.com/MaKaNu/docker-image/pull/1) in [MaKaNu/docker-image](https://github.com/MaKaNu/docker-image)
+3. 💪 Opened PR [#1](https://github.com/MaKaNu/docker-image/pull/1) in [MaKaNu/docker-image](https://github.com/MaKaNu/docker-image)
+4. 🗣 Commented on [#588](https://github.com/ansible/ansible-dev-tools/issues/588#issuecomment-3128144212) in [ansible/ansible-dev-tools](https://github.com/ansible/ansible-dev-tools)
+5. ❗ Opened issue [#588](https://github.com/ansible/ansible-dev-tools/issues/588) in [ansible/ansible-dev-tools](https://github.com/ansible/ansible-dev-tools)
 <!--END_SECTION:activity-->
    
 </details>
