@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/trfore/docker-image/pull/23) in [trfore/docker-image](https://github.com/trfore/docker-image)
-2. 🎉 Merged PR [#1](https://github.com/MaKaNu/docker-image/pull/1) in [MaKaNu/docker-image](https://github.com/MaKaNu/docker-image)
-3. 💪 Opened PR [#1](https://github.com/MaKaNu/docker-image/pull/1) in [MaKaNu/docker-image](https://github.com/MaKaNu/docker-image)
-4. 🗣 Commented on [#588](https://github.com/ansible/ansible-dev-tools/issues/588#issuecomment-3128144212) in [ansible/ansible-dev-tools](https://github.com/ansible/ansible-dev-tools)
-5. ❗ Opened issue [#588](https://github.com/ansible/ansible-dev-tools/issues/588) in [ansible/ansible-dev-tools](https://github.com/ansible/ansible-dev-tools)
+1. 💪 Opened PR [#25](https://github.com/trfore/docker-image/pull/25) in [trfore/docker-image](https://github.com/trfore/docker-image)
+2. 💪 Opened PR [#24](https://github.com/trfore/docker-image/pull/24) in [trfore/docker-image](https://github.com/trfore/docker-image)
+3. ❌ Closed PR [#23](https://github.com/trfore/docker-image/pull/23) in [trfore/docker-image](https://github.com/trfore/docker-image)
+4. 💪 Opened PR [#23](https://github.com/trfore/docker-image/pull/23) in [trfore/docker-image](https://github.com/trfore/docker-image)
+5. 🎉 Merged PR [#1](https://github.com/MaKaNu/docker-image/pull/1) in [MaKaNu/docker-image](https://github.com/MaKaNu/docker-image)
 <!--END_SECTION:activity-->
    
 </details>
