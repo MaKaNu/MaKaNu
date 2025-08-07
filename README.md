@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/trfore/docker-image/pull/25) in [trfore/docker-image](https://github.com/trfore/docker-image)
-2. 💪 Opened PR [#24](https://github.com/trfore/docker-image/pull/24) in [trfore/docker-image](https://github.com/trfore/docker-image)
-3. ❌ Closed PR [#23](https://github.com/trfore/docker-image/pull/23) in [trfore/docker-image](https://github.com/trfore/docker-image)
-4. 💪 Opened PR [#23](https://github.com/trfore/docker-image/pull/23) in [trfore/docker-image](https://github.com/trfore/docker-image)
-5. 🎉 Merged PR [#1](https://github.com/MaKaNu/docker-image/pull/1) in [MaKaNu/docker-image](https://github.com/MaKaNu/docker-image)
+1. 💪 Opened PR [#25](undefined) in [trfore/docker-image](https://github.com/trfore/docker-image)
+2. 💪 Opened PR [#24](undefined) in [trfore/docker-image](https://github.com/trfore/docker-image)
+3. ❌ Closed PR [#23](undefined) in [trfore/docker-image](https://github.com/trfore/docker-image)
+4. 💪 Opened PR [#23](undefined) in [trfore/docker-image](https://github.com/trfore/docker-image)
+5. 💪 Opened PR [#1](undefined) in [MaKaNu/docker-image](https://github.com/MaKaNu/docker-image)
 <!--END_SECTION:activity-->
    
 </details>
