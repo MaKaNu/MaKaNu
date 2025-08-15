@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#290](https://github.com/jobisoft/EAS-4-TbSync/issues/290#issuecomment-3174973347) in [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
-2. 💪 Opened PR [#25](https://github.com/trfore/docker-image/pull/25) in [trfore/docker-image](https://github.com/trfore/docker-image)
-3. 💪 Opened PR [#24](https://github.com/trfore/docker-image/pull/24) in [trfore/docker-image](https://github.com/trfore/docker-image)
-4. ❌ Closed PR [#23](https://github.com/trfore/docker-image/pull/23) in [trfore/docker-image](https://github.com/trfore/docker-image)
-5. 💪 Opened PR [#23](https://github.com/trfore/docker-image/pull/23) in [trfore/docker-image](https://github.com/trfore/docker-image)
+1. 🗣 Commented on [#290](https://github.com/jobisoft/EAS-4-TbSync/issues/290#issuecomment-3188962409) in [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
+2. 🗣 Commented on [#588](https://github.com/ansible/ansible-dev-tools/issues/588#issuecomment-3188874374) in [ansible/ansible-dev-tools](https://github.com/ansible/ansible-dev-tools)
+3. 🗣 Commented on [#290](https://github.com/jobisoft/EAS-4-TbSync/issues/290#issuecomment-3174973347) in [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
+4. 💪 Opened PR [#25](https://github.com/trfore/docker-image/pull/25) in [trfore/docker-image](https://github.com/trfore/docker-image)
+5. 💪 Opened PR [#24](https://github.com/trfore/docker-image/pull/24) in [trfore/docker-image](https://github.com/trfore/docker-image)
 <!--END_SECTION:activity-->
    
 </details>
