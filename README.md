@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745#issuecomment-3368514762) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
-2. ❗ Opened issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
-3. 🗣 Commented on [#264](https://github.com/gantsign/ansible-role-visual-studio-code/pull/264#issuecomment-3279895616) in [gantsign/ansible-role-visual-studio-code](https://github.com/gantsign/ansible-role-visual-studio-code)
-4. 🗣 Commented on [#4348](https://github.com/ansible/ansible-lint/issues/4348#issuecomment-3271319812) in [ansible/ansible-lint](https://github.com/ansible/ansible-lint)
-5. 🗣 Commented on [#6175](https://github.com/canonical/cloud-init/issues/6175#issuecomment-3271231649) in [canonical/cloud-init](https://github.com/canonical/cloud-init)
+1. 🗣 Commented on [#260](https://github.com/gantsign/ansible-role-visual-studio-code/pull/260#issuecomment-3384980072) in [gantsign/ansible-role-visual-studio-code](https://github.com/gantsign/ansible-role-visual-studio-code)
+2. 🗣 Commented on [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745#issuecomment-3368514762) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
+3.  Labeled issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
+4.  Labeled issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
+5. ❗ Opened issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
 <!--END_SECTION:activity-->
    
 </details>
