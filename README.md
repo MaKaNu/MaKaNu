@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com/gantsign/ansible-role-visual-studio-code/pull/260#issuecomment-3384980072) in [gantsign/ansible-role-visual-studio-code](https://github.com/gantsign/ansible-role-visual-studio-code)
-2. 🗣 Commented on [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745#issuecomment-3368514762) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
-3.  Labeled issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
+1. ❗ Opened issue [#4](https://github.com/zegelin/python-os-release/issues/4) in [zegelin/python-os-release](https://github.com/zegelin/python-os-release)
+2. 🗣 Commented on [#260](https://github.com/gantsign/ansible-role-visual-studio-code/pull/260#issuecomment-3384980072) in [gantsign/ansible-role-visual-studio-code](https://github.com/gantsign/ansible-role-visual-studio-code)
+3. 🗣 Commented on [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745#issuecomment-3368514762) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
 4.  Labeled issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
-5. ❗ Opened issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
+5.  Labeled issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
 <!--END_SECTION:activity-->
    
 </details>
