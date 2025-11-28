@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#770](https://github.com/jobisoft/TbSync/issues/770) in [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
-2. 🗣 Commented on [#10](https://github.com/tom-mi/python-mkp/pull/10#issuecomment-3548896172) in [tom-mi/python-mkp](https://github.com/tom-mi/python-mkp)
-3. 🗣 Commented on [#9](https://github.com/tom-mi/python-mkp/issues/9#issuecomment-3548887835) in [tom-mi/python-mkp](https://github.com/tom-mi/python-mkp)
-4.  Labeled issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
-5.  Labeled issue [#745](https://github.com/TheAssassin/AppImageLauncher/issues/745) in [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
+1. ❌ Labeled PR [#2](undefined) in [MaKaNu/docker-rocky10-systemd](https://github.com/MaKaNu/docker-rocky10-systemd)
+2. ❌ Labeled PR [#2](undefined) in [MaKaNu/docker-rocky10-systemd](https://github.com/MaKaNu/docker-rocky10-systemd)
+3. ❌ Labeled PR [#2](undefined) in [MaKaNu/docker-rocky10-systemd](https://github.com/MaKaNu/docker-rocky10-systemd)
+4. 💪 Opened PR [#2](undefined) in [MaKaNu/docker-rocky10-systemd](https://github.com/MaKaNu/docker-rocky10-systemd)
+5. ❗ Opened issue [#770](https://github.com/jobisoft/TbSync/issues/770) in [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
 <!--END_SECTION:activity-->
    
 </details>
