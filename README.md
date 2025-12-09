@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-2. ❌ Merged PR [#2](undefined) in [MaKaNu/docker-rocky9-systemd](https://github.com/MaKaNu/docker-rocky9-systemd)
-3. ❌ Labeled PR [#2](undefined) in [MaKaNu/docker-rocky10-systemd](https://github.com/MaKaNu/docker-rocky10-systemd)
-4. ❌ Labeled PR [#2](undefined) in [MaKaNu/docker-rocky10-systemd](https://github.com/MaKaNu/docker-rocky10-systemd)
-5. ❌ Labeled PR [#2](undefined) in [MaKaNu/docker-rocky10-systemd](https://github.com/MaKaNu/docker-rocky10-systemd)
+1.  Labeled issue [#6](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/6) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+2.  Assigned issue [#6](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/6) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. ❗ Opened issue [#6](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/6) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4.  Labeled issue [#5](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5.  Assigned issue [#5](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
