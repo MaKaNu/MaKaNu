@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1.  Labeled issue [#6](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/6) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-2.  Assigned issue [#6](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/6) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-3. ❗ Opened issue [#6](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/6) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4.  Labeled issue [#5](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5.  Assigned issue [#5](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1. ❗ Opened issue [#22](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/22) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+2. ❗ Opened issue [#21](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/21) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. ❗ Opened issue [#20](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/20) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. ❗ Opened issue [#19](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/19) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5. ❗ Opened issue [#18](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/18) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
