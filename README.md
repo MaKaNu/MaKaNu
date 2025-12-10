@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#24](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-2. ❌ Assigned PR [#24](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-3. 💪 Opened PR [#24](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4. 🗣 Commented on [#6](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/6#issuecomment-3636496368) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. 🗣 Commented on [#5](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/5#issuecomment-3636469172) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1.  Labeled issue [#25](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/25) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+2. ❗ Opened issue [#25](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/25) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. ❌ Labeled PR [#24](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. ❌ Assigned PR [#24](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5. 💪 Opened PR [#24](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
