@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.0.0) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-2. 🔒 Closed issue [#23](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/23) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-3. ❌ Merged PR [#24](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4.  Labeled issue [#25](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/25) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. ❗ Opened issue [#25](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/25) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1. 🚀 Published release [0.0.5](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/0.0.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+2. 🚀 Published release [1.0.0](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.0.0) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. 🔒 Closed issue [#23](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/23) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. ❌ Merged PR [#24](undefined) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5.  Labeled issue [#25](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/25) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
