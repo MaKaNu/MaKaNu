@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#576](https://github.com/CISOfy/lynis/issues/576#issuecomment-3705275098) in [CISOfy/lynis](https://github.com/CISOfy/lynis)
-2. 🚀 Published release [Final Release of PytorchImagePipeline](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/0.0.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-3. 🚀 Published release [1.0.0](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.0.0) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4. 🔒 Closed issue [#23](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/23) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. 🎉 Merged PR [#24](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/24) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1. ❗ Opened issue [#49](https://github.com/netboxlabs/netbox-proxmox-automation/issues/49) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
+2. 🗣 Commented on [#576](https://github.com/CISOfy/lynis/issues/576#issuecomment-3705275098) in [CISOfy/lynis](https://github.com/CISOfy/lynis)
+3. 🚀 Published release [Final Release of PytorchImagePipeline](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/0.0.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. 🚀 Published release [1.0.0](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.0.0) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5. 🔒 Closed issue [#23](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/23) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
