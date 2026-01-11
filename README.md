@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/netboxlabs/netbox-proxmox-automation/issues/52#issuecomment-3730199405) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
-2. 🗣 Commented on [#49](https://github.com/netboxlabs/netbox-proxmox-automation/issues/49#issuecomment-3730165281) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
-3. ❗ Opened issue [#52](https://github.com/netboxlabs/netbox-proxmox-automation/issues/52) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
-4. 💪 Opened PR [#50](https://github.com/netboxlabs/netbox-proxmox-automation/pull/50) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
-5. ❗ Opened issue [#49](https://github.com/netboxlabs/netbox-proxmox-automation/issues/49) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
+1. 💪 Opened PR [#26](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/26) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+2. ℹ️ Assigned issue [#8](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/8) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. 🗣 Commented on [#52](https://github.com/netboxlabs/netbox-proxmox-automation/issues/52#issuecomment-3730199405) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
+4. 🗣 Commented on [#49](https://github.com/netboxlabs/netbox-proxmox-automation/issues/49#issuecomment-3730165281) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
+5. ❗ Opened issue [#52](https://github.com/netboxlabs/netbox-proxmox-automation/issues/52) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
 <!--END_SECTION:activity-->
    
 </details>
