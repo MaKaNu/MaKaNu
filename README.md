@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/netboxlabs/netbox-proxmox-automation/issues/53#issuecomment-3759105232) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
-2. ❗ Opened issue [#53](https://github.com/netboxlabs/netbox-proxmox-automation/issues/53) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
-3. 🗣 Commented on [#49](https://github.com/netboxlabs/netbox-proxmox-automation/issues/49#issuecomment-3739438913) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
-4. 🗣 Commented on [#49](https://github.com/netboxlabs/netbox-proxmox-automation/issues/49#issuecomment-3738734710) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
-5. 🚀 Published release [1.0.1](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.0.1) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1. 🗣 Commented on [#3](https://github.com/emilybache/pytest-approvaltests/issues/3#issuecomment-3768179836) in [emilybache/pytest-approvaltests](https://github.com/emilybache/pytest-approvaltests)
+2. 🗣 Commented on [#53](https://github.com/netboxlabs/netbox-proxmox-automation/issues/53#issuecomment-3759105232) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
+3. ❗ Opened issue [#53](https://github.com/netboxlabs/netbox-proxmox-automation/issues/53) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
+4. 🗣 Commented on [#49](https://github.com/netboxlabs/netbox-proxmox-automation/issues/49#issuecomment-3739438913) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
+5. 🗣 Commented on [#49](https://github.com/netboxlabs/netbox-proxmox-automation/issues/49#issuecomment-3738734710) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
 <!--END_SECTION:activity-->
    
 </details>
