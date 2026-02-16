@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#772](https://github.com/jobisoft/TbSync/pull/772#issuecomment-3871914964) in [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
-2. ℹ️ Labeled issue [#27](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/27) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-3. ❗ Opened issue [#27](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/27) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4. ℹ️ Assigned issue [#27](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/27) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. 🔒 Closed issue [#53](https://github.com/netboxlabs/netbox-proxmox-automation/issues/53) in [netboxlabs/netbox-proxmox-automation](https://github.com/netboxlabs/netbox-proxmox-automation)
+1. 🗣 Commented on [#2011](https://github.com/IsmaelMartinez/teams-for-linux/issues/2011#issuecomment-3907208499) in [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux)
+2. 🗣 Commented on [#772](https://github.com/jobisoft/TbSync/pull/772#issuecomment-3871914964) in [jobisoft/TbSync](https://github.com/jobisoft/TbSync)
+3. ℹ️ Labeled issue [#27](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/27) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. ❗ Opened issue [#27](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/27) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5. ℹ️ Assigned issue [#27](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/27) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
