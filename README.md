@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18587](https://github.com/grokability/snipe-it/issues/18587) in [grokability/snipe-it](https://github.com/grokability/snipe-it)
-2. 🗣 Commented on [#13569](https://github.com/grokability/snipe-it/issues/13569#issuecomment-3932513039) in [grokability/snipe-it](https://github.com/grokability/snipe-it)
-3. 🗣 Commented on [#13569](https://github.com/grokability/snipe-it/issues/13569#issuecomment-3926739857) in [grokability/snipe-it](https://github.com/grokability/snipe-it)
-4. 🗣 Commented on [#190](https://github.com/ansible-collections/community.proxmox/issues/190#issuecomment-3914978485) in [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox)
-5. 🗣 Commented on [#2011](https://github.com/IsmaelMartinez/teams-for-linux/issues/2011#issuecomment-3907208499) in [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux)
+1. 💪 Opened PR [#92](https://github.com/fpgmaas/cookiecutter-uv/pull/92) in [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+2. ❗ Opened issue [#18587](https://github.com/grokability/snipe-it/issues/18587) in [grokability/snipe-it](https://github.com/grokability/snipe-it)
+3. 🗣 Commented on [#13569](https://github.com/grokability/snipe-it/issues/13569#issuecomment-3932513039) in [grokability/snipe-it](https://github.com/grokability/snipe-it)
+4. 🗣 Commented on [#13569](https://github.com/grokability/snipe-it/issues/13569#issuecomment-3926739857) in [grokability/snipe-it](https://github.com/grokability/snipe-it)
+5. 🗣 Commented on [#190](https://github.com/ansible-collections/community.proxmox/issues/190#issuecomment-3914978485) in [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox)
 <!--END_SECTION:activity-->
    
 </details>
