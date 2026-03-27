@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/osprey-oss/cookiecutter-uv/pull/92#issuecomment-4135028313) in [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv)
-2. 🗣 Commented on [#92](https://github.com/osprey-oss/cookiecutter-uv/pull/92#issuecomment-4128339039) in [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv)
-3. 🗣 Commented on [#3870](https://github.com/chocolatey/choco/issues/3870#issuecomment-4127286423) in [chocolatey/choco](https://github.com/chocolatey/choco)
-4. ℹ️ Labeled issue [#3870](https://github.com/chocolatey/choco/issues/3870) in [chocolatey/choco](https://github.com/chocolatey/choco)
-5. ❗ Opened issue [#3870](https://github.com/chocolatey/choco/issues/3870) in [chocolatey/choco](https://github.com/chocolatey/choco)
+1. 🗣 Commented on [#92](https://github.com/osprey-oss/cookiecutter-uv/pull/92#issuecomment-4141375879) in [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv)
+2. 🗣 Commented on [#92](https://github.com/osprey-oss/cookiecutter-uv/pull/92#issuecomment-4135028313) in [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv)
+3. 🗣 Commented on [#92](https://github.com/osprey-oss/cookiecutter-uv/pull/92#issuecomment-4128339039) in [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv)
+4. 🗣 Commented on [#3870](https://github.com/chocolatey/choco/issues/3870#issuecomment-4127286423) in [chocolatey/choco](https://github.com/chocolatey/choco)
+5. ℹ️ Labeled issue [#3870](https://github.com/chocolatey/choco/issues/3870) in [chocolatey/choco](https://github.com/chocolatey/choco)
 <!--END_SECTION:activity-->
    
 </details>
