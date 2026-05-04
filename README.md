@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#182250](https://github.com/pytorch/pytorch/issues/182250) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 🎉 Merged PR [#67](https://github.com/danielauener/git-auf-deutsch/pull/67) in [danielauener/git-auf-deutsch](https://github.com/danielauener/git-auf-deutsch)
-3. 💪 Opened PR [#67](https://github.com/danielauener/git-auf-deutsch/pull/67) in [danielauener/git-auf-deutsch](https://github.com/danielauener/git-auf-deutsch)
-4. ❗ Opened issue [#2645](https://github.com/rustfs/rustfs/issues/2645) in [rustfs/rustfs](https://github.com/rustfs/rustfs)
-5. ℹ️ Labeled issue [#1524](https://github.com/smartstore/Smartstore/issues/1524) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
+1. 💪 Opened PR [#29](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/29) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+2. ℹ️ Assigned issue [#28](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/28) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. ❗ Opened issue [#28](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/28) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. ❗ Opened issue [#182250](https://github.com/pytorch/pytorch/issues/182250) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+5. 🎉 Merged PR [#67](https://github.com/danielauener/git-auf-deutsch/pull/67) in [danielauener/git-auf-deutsch](https://github.com/danielauener/git-auf-deutsch)
 <!--END_SECTION:activity-->
    
 </details>
