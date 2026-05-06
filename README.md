@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1.0.2](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.0.2) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-2. 🎉 Merged PR [#31](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/31) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-3. 💪 Opened PR [#31](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/31) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4. 🎉 Merged PR [#30](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/30) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. 💪 Opened PR [#30](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/30) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1. ❗ Opened issue [#99](https://github.com/osprey-oss/cookiecutter-uv/issues/99) in [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv)
+2. 🚀 Published release [Release 1.1.0](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.1.0) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. 🎉 Merged PR [#32](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/32) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. 💪 Opened PR [#32](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/32) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5. 🚀 Published release [Release 1.0.2](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.0.2) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
