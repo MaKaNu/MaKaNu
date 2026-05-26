@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1537](https://github.com/smartstore/Smartstore/issues/1537#issuecomment-4546623467) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
-2. 🗣 Commented on [#9](https://github.com/baverman/flameprof/issues/9#issuecomment-4544352937) in [baverman/flameprof](https://github.com/baverman/flameprof)
-3. 🗣 Commented on [#1537](https://github.com/smartstore/Smartstore/issues/1537#issuecomment-4541219910) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
-4. ℹ️ Labeled issue [#1537](https://github.com/smartstore/Smartstore/issues/1537) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
-5. ❗ Opened issue [#1537](https://github.com/smartstore/Smartstore/issues/1537) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
+1. 🗣 Commented on [#1537](https://github.com/smartstore/Smartstore/issues/1537#issuecomment-4547694666) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
+2. 🗣 Commented on [#1537](https://github.com/smartstore/Smartstore/issues/1537#issuecomment-4546623467) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
+3. 🗣 Commented on [#9](https://github.com/baverman/flameprof/issues/9#issuecomment-4544352937) in [baverman/flameprof](https://github.com/baverman/flameprof)
+4. 🗣 Commented on [#1537](https://github.com/smartstore/Smartstore/issues/1537#issuecomment-4541219910) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
+5. ℹ️ Labeled issue [#1537](https://github.com/smartstore/Smartstore/issues/1537) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
 <!--END_SECTION:activity-->
    
 </details>
