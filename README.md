@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.2](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.2) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-2. 🚀 Published release [1.2.1](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.1) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-3. 🎉 Merged PR [#34](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/34) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4. 💪 Opened PR [#34](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/34) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. ℹ️ Labeled issue [#20](https://github.com/InkyQuill/gitlab-ci-lint/issues/20) in [InkyQuill/gitlab-ci-lint](https://github.com/InkyQuill/gitlab-ci-lint)
+1. 🚀 Published release [1.2.4](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.4) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+2. 🚀 Published release [1.2.3](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.3) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. ❗ Opened issue [#35](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/35) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. ℹ️ Assigned issue [#35](https://github.com/tensorimgpipeline/TensorImgPipeline/issues/35) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5. 🚀 Published release [1.2.2](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.2) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
