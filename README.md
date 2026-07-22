@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.5](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-2. 🎉 Merged PR [#36](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/36) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-3. 🎉 Merged PR [#37](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/37) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4. 💪 Opened PR [#37](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/37) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. 💪 Opened PR [#36](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/36) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1. ❗ Opened issue [#1](https://github.com/daytonjones/ansible-scaffold/issues/1) in [daytonjones/ansible-scaffold](https://github.com/daytonjones/ansible-scaffold)
+2. 🚀 Published release [1.2.5](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+3. 🎉 Merged PR [#36](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/36) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+4. 🎉 Merged PR [#37](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/37) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5. 💪 Opened PR [#37](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/37) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
