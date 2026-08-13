@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#498](https://github.com/ansible-collections/community.proxmox/issues/498) in [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox)
-2. ❗ Opened issue [#1](https://github.com/daytonjones/ansible-scaffold/issues/1) in [daytonjones/ansible-scaffold](https://github.com/daytonjones/ansible-scaffold)
-3. 🚀 Published release [1.2.5](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-4. 🎉 Merged PR [#36](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/36) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. 🎉 Merged PR [#37](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/37) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1. ❗ Opened issue [#3404](https://github.com/rocky-linux/documentation/issues/3404) in [rocky-linux/documentation](https://github.com/rocky-linux/documentation)
+2. ❗ Opened issue [#498](https://github.com/ansible-collections/community.proxmox/issues/498) in [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox)
+3. ❗ Opened issue [#1](https://github.com/daytonjones/ansible-scaffold/issues/1) in [daytonjones/ansible-scaffold](https://github.com/daytonjones/ansible-scaffold)
+4. 🚀 Published release [1.2.5](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+5. 🎉 Merged PR [#36](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/36) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
 <!--END_SECTION:activity-->
    
 </details>
