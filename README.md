@@ -36,7 +36,7 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3404](https://github.com/rocky-linux/documentation/issues/3404) in [rocky-linux/documentation](https://github.com/rocky-linux/documentation)
+1. ❗ Opened issue [#21](https://github.com/oposs/mkp-builder/issues/21) in [oposs/mkp-builder](https://github.com/oposs/mkp-builder)
 2. ❗ Opened issue [#498](https://github.com/ansible-collections/community.proxmox/issues/498) in [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox)
 3. ❗ Opened issue [#1](https://github.com/daytonjones/ansible-scaffold/issues/1) in [daytonjones/ansible-scaffold](https://github.com/daytonjones/ansible-scaffold)
 4. 🚀 Published release [1.2.5](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
