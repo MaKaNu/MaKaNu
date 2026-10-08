@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/oposs/mkp-builder/issues/21) in [oposs/mkp-builder](https://github.com/oposs/mkp-builder)
-2. ❗ Opened issue [#498](https://github.com/ansible-collections/community.proxmox/issues/498) in [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox)
-3. ❗ Opened issue [#1](https://github.com/daytonjones/ansible-scaffold/issues/1) in [daytonjones/ansible-scaffold](https://github.com/daytonjones/ansible-scaffold)
-4. 🚀 Published release [1.2.5](https://github.com/tensorimgpipeline/TensorImgPipeline/releases/tag/1.2.5) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
-5. 🎉 Merged PR [#36](https://github.com/tensorimgpipeline/TensorImgPipeline/pull/36) in [tensorimgpipeline/TensorImgPipeline](https://github.com/tensorimgpipeline/TensorImgPipeline)
+1. 🎉 Merged PR [#1](https://github.com/MaKaNu/mkp-forge/pull/1) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+2. 🎉 Merged PR [#2](https://github.com/MaKaNu/mkp-forge/pull/2) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+3. 💪 Opened PR [#2](https://github.com/MaKaNu/mkp-forge/pull/2) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+4. 💪 Opened PR [#1](https://github.com/MaKaNu/mkp-forge/pull/1) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+5. 🚀 Published release [0.0.1-rc1](https://github.com/MaKaNu/mkp-forge/releases/tag/0.0.1-rc1) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
 <!--END_SECTION:activity-->
    
 </details>
