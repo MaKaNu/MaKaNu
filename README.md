@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/MaKaNu/mkp-forge/pull/6) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
-2. ℹ️ Labeled issue [#5](https://github.com/MaKaNu/mkp-forge/issues/5) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
-3. ❗ Opened issue [#5](https://github.com/MaKaNu/mkp-forge/issues/5) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
-4. 🎉 Merged PR [#4](https://github.com/MaKaNu/mkp-forge/pull/4) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
-5. 💪 Opened PR [#4](https://github.com/MaKaNu/mkp-forge/pull/4) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+1. 🎉 Merged PR [#6](https://github.com/MaKaNu/mkp-forge/pull/6) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+2. 🚀 Published release [0.0.1](https://github.com/MaKaNu/mkp-forge/releases/tag/0.0.1) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+3. 💪 Opened PR [#6](https://github.com/MaKaNu/mkp-forge/pull/6) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+4. ℹ️ Labeled issue [#5](https://github.com/MaKaNu/mkp-forge/issues/5) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+5. ❗ Opened issue [#5](https://github.com/MaKaNu/mkp-forge/issues/5) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
 <!--END_SECTION:activity-->
    
 </details>
