@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#11253](https://github.com/marimo-team/marimo/issues/11253) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
-2. ❗ Opened issue [#11253](https://github.com/marimo-team/marimo/issues/11253) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
-3. ℹ️ Labeled issue [#11253](https://github.com/marimo-team/marimo/issues/11253) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
-4. 🎉 Merged PR [#6](https://github.com/MaKaNu/mkp-forge/pull/6) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
-5. 🚀 Published release [0.0.1](https://github.com/MaKaNu/mkp-forge/releases/tag/0.0.1) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
+1. 🚀 Published release [1.0.1](https://github.com/MaKaNu/cmk_linux_flexlm/releases/tag/1.0.1) in [MaKaNu/cmk_linux_flexlm](https://github.com/MaKaNu/cmk_linux_flexlm)
+2. ℹ️ Labeled issue [#11253](https://github.com/marimo-team/marimo/issues/11253) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+3. ❗ Opened issue [#11253](https://github.com/marimo-team/marimo/issues/11253) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+4. ℹ️ Labeled issue [#11253](https://github.com/marimo-team/marimo/issues/11253) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
+5. 🎉 Merged PR [#6](https://github.com/MaKaNu/mkp-forge/pull/6) in [MaKaNu/mkp-forge](https://github.com/MaKaNu/mkp-forge)
 <!--END_SECTION:activity-->
    
 </details>
