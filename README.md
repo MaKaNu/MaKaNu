@@ -36,11 +36,11 @@
   <summary>:zap: Github activity</summary> 
    
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/pythagoras-dev/persidict/issues/1) in [pythagoras-dev/persidict](https://github.com/pythagoras-dev/persidict)
-2. 💪 Opened PR [#3](https://github.com/MaKaNu/snipeit-watcher/pull/3) in [MaKaNu/snipeit-watcher](https://github.com/MaKaNu/snipeit-watcher)
-3. 🎉 Merged PR [#2](https://github.com/MaKaNu/snipeit-watcher/pull/2) in [MaKaNu/snipeit-watcher](https://github.com/MaKaNu/snipeit-watcher)
-4. 💪 Opened PR [#2](https://github.com/MaKaNu/snipeit-watcher/pull/2) in [MaKaNu/snipeit-watcher](https://github.com/MaKaNu/snipeit-watcher)
-5. 🎉 Merged PR [#1](https://github.com/MaKaNu/snipeit-watcher/pull/1) in [MaKaNu/snipeit-watcher](https://github.com/MaKaNu/snipeit-watcher)
+1. 🗣 Commented on [#367](https://github.com/jobisoft/EAS-4-TbSync/issues/367#issuecomment-6660908382) in [jobisoft/EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync)
+2. ❗ Opened issue [#1](https://github.com/pythagoras-dev/persidict/issues/1) in [pythagoras-dev/persidict](https://github.com/pythagoras-dev/persidict)
+3. 💪 Opened PR [#3](https://github.com/MaKaNu/snipeit-watcher/pull/3) in [MaKaNu/snipeit-watcher](https://github.com/MaKaNu/snipeit-watcher)
+4. 🎉 Merged PR [#2](https://github.com/MaKaNu/snipeit-watcher/pull/2) in [MaKaNu/snipeit-watcher](https://github.com/MaKaNu/snipeit-watcher)
+5. 💪 Opened PR [#2](https://github.com/MaKaNu/snipeit-watcher/pull/2) in [MaKaNu/snipeit-watcher](https://github.com/MaKaNu/snipeit-watcher)
 <!--END_SECTION:activity-->
    
 </details>
